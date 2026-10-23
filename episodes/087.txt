@@ -1,26 +1,14 @@
 Episode 87. Securities Firms.
-Investment Banks.
-Investment banks (sometimes called "securities firms" more generally) provide investment-related services, usually to large companies, wealthy individuals, or other banks. There are several major services investment banks focus on:
-Underwriting: investment banks underwrite corporate bonds, which means they assess companies' creditworthiness and then help those companies issue debt, which other investors can buy.
-Initial public offerings: when companies "go public" and trade on stock exchanges, they turn to investment banks for help with the process.
-Mergers and acquisitions: when companies merge, or acquire other companies, or sell off subsidiaries, they need legal and financial advice from investment banks.
-Wealth management: some investment banks offer specialized investing services for high-net-worth individuals by managing (and growing) their assets through profitable investments.
-The largest, most-capitalized, and most prestigious investment banks are known as the "bulge bracket" banks; examples include Goldman Sachs, Morgan Stanley, and Bank of America. "Boutique banks" are smaller, both in size and in focus. "Middle-market" banks fall in the middle. Private Equity.
-"Equity" refers to shares in a company. "Public equity," more commonly known as "stocks," can be purchased by nearly anyone; companies that launch an IPO can subsequently issue shares of public equity. By contrast, ownership shares in companies that don't go public are known as "private equity" shares.
-While many conventional asset management funds (for example, mutual funds, pension funds, exchange-traded funds, etc) primarily invest in public equity, private equity firms focus their investments on privately-owned companies.
-To do this, private equity firms raise funds from private accredited investors (like banks or wealthy individuals), and then invest those funds into privately-owned companies. "Leveraged buyouts," in which a private equity firm borrows money to then buy out a majority stake in a company, are a common tactic. Once PE firms have a controlling stake in a company, they work closely with corporate leaders to increase the firm's value; after seven to ten years, investors in the private equity fund receive their payout.
-Blackstone is the best-known private equity fund currently in operation. Apollo Management and the Carlyle Group are also well-reputed. Venture Capital.
-Venture capital features nearly-identical principles as private equity, but while PE firms focus on relatively mature (that is, well-developed and established) companies, venture capital firms speculatively invest in highly risky start-ups, where the risk of loss is high but the potential gains are enormous.
-Unsurprisingly, many VC investments fail, but venture capitalists accept these losses in the hopes that they strike the next "unicorn" (an extraordinarily profitable company). To compensate for this risk, venture capital firms receive large ownership stakes in the companies they invest, and provide extensive managerial insight for maximizing growth potential. Hedge Funds.
-Hedge funds pool billions of dollars from wealthy investors and institutions and invest those funds, aiming to "beat the market" and offer high returns. Unlike many other institutional investors (like mutual funds or credit unions), hedge funds actively invest in highly complex financial instruments, often with a considerable degree of risk. Additionally, most hedge funds are highly leveraged, meaning that they borrow significantly.
-Hedge funds are subject to fewer regulations and disclosure requirements than most other investment funds. Whether they are more profitable (or even more risky) than alternative institutional investors is hotly debated; there isn't clear evidence. Asset Managers.
-Most people do not manage their own investments directly; they have neither the time nor the expertise. Instead, they delegate that responsibility to asset managers. Many investment banks, and specialized companies, provide these services. Examples include mutual funds and pension funds.
-Asset managers invest in a wide range of financial instruments.
-Fixed-income securities, most notably bonds, promised a fixed rate of return over a set period of time.
-Stocks are more volatile, but investing into a well-diversified portfolio of stocks can yield handsome returns.
-Derivatives include a range of financial products which allow investors to "bet" on underlying assets. For instance, Treasury futures are (in effect) bets on the future yields that U.S. Treasury bonds will offer.
-Asset management strategies vary in several ways.
-Risk appetite varies. A middle-class family may prefer stable and consistent returns, while a wealthy millionaire may prefer to speculate in the hopes of profiting spectacularly.
-Liquidity varies. Longer-term investors (for instance, a middle-aged worker planning on retiring in several decades) might be fine investing in relatively illiquid (that is, unable to be sold quickly) securities. Conversely, a highly risk-averse or short-term investor might care about investing in highly liquid assets.
+Today: a quick map of the financial world: investment banks, private equity, venture capital, hedge funds and asset managers.
+
+First, investment banks serve big companies, wealthy people and other banks. They underwrite bonds, assessing creditworthiness and helping firms issue debt; run IPOs when companies go public; advise on mergers and acquisitions; and manage wealth for rich clients. The biggest, like Goldman Sachs, Morgan Stanley and Bank of America, are called bulge bracket banks; smaller specialists are boutiques.
+
+Second, private equity. Stocks are public equity; shares in companies not listed on exchanges are private equity. PE firms raise money from accredited investors and buy stakes in private companies, often through leveraged buyouts, borrowing to buy control. They work with management to raise the company's value and sell after seven to ten years. Big names include Blackstone, Apollo and Carlyle.
+
+Third, venture capital works the same way but bets on risky start-ups. Most investments fail, but one unicorn can pay for all the losses, so VCs take large ownership stakes and help guide growth.
+
+Fourth, hedge funds pool money from wealthy investors and institutions to try to beat the market, using complex instruments and heavy borrowing. They face lighter regulation and disclosure rules, and whether they actually earn better returns is hotly debated.
+
+Fifth, asset managers, like mutual funds and pension funds, invest on behalf of ordinary people who lack time or expertise. They use bonds, which pay a fixed return; stocks, which are more volatile but rewarding when diversified; and derivatives, which are bets on underlying assets, like Treasury futures. Strategies differ by risk appetite, from families wanting stability to millionaires speculating, and by liquidity, since long-term savers can hold assets that are hard to sell quickly.
 
 That was Securities Firms. Next episode: Court Debt.
