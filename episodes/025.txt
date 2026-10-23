@@ -1,31 +1,12 @@
 Episode 25. Standardized Tests.
-Today's subtopics: Standardized Tests Bad Metrics, Standardized Tests Good Metrics, Standardized Tests Biased, and Standardized Tests Unbiased.
+Today: are standardized tests good or bad metrics, and are they biased or fair?
 
-Next: Standardized Tests Bad Metrics.
+First, tests are bad metrics. They cover a narrow slice of ability, like grammar and algebra, and miss creativity. They capture a few hours on one day, when a student may be sick or stressed by a crisis at home, unlike grades that span years. Exam anxiety makes some students freeze. And being a good test-taker says little about the work ethic and study habits that drive success in college.
 
-Tests cover a narrow range of subjects, like grammar rules or the fundamentals of algebra. These tests don't explore other aspects of students' intelligence, like their creativity or artistic instincts. Thus, these tests provide an insufficient picture of a student's true academic potential.
-Testing is a single-time, few-hour occurrence subject to wild and unpredictable fluctuations in student performance. Students might just be having a bad day. They might have a cold. Their mom might have just lost her job the day before. Other factors, like grades, aggregate student performance over the course of multiple years of academic study; in contrast, tests measure student aptitude in an unacceptably narrow window of time.
-Students feel the pressure of taking tests: their brain freezes up, they panic, and they don't know how to conduct themselves. This is compounded by the testing environment, having a proctor staring over your shoulder, a clock ticking on the wall, and other students around you can amplify student anxiety. Thus, these tests are poor indicators of future success.
-Some students are just innately good at taking tests. Some students are innately less good at taking tests. This is because different students have different strengths, the problem is that being an "innately good test-taker" seldom translates to success in a rigorous college environment, since skills like work ethic and study habits matter far more than one's ability to ace the SAT.
+Second, tests are good metrics. They are the same for everyone, while grades vary between teachers and schools. And testing companies have every incentive to make the tests informative, because colleges would stop using them otherwise.
 
-Next: Standardized Tests Good Metrics.
+Third, tests are biased. Wealthy families pay for tutors and prep, and some even game disability accommodations for extra time. Richer schools have better teachers and curricula focused on the test. Poorer students often work or care for siblings after school, leaving less time to prepare, and the tests mostly reward knowing the test. They also enforce one standard form of language, penalizing students who speak differently. Minority groups score lower on average.
 
-STs are universal and standardized, while other factors vary enormously (for example, grades) within (for example, different teachers) and between schools, which gives standardized data for colleges to consider when evaluating applications.
-Testing companies (for example, College Board, ETS) have an incentive to design these tests in a way that yields valuable information, since otherwise colleges wouldn't consider exams. Plus, if STs were bad metrics, colleges just wouldn't consider using them.
-
-Next: Standardized Tests Biased.
-
-Wealthy students can afford to pay for private tutors or prep resources. Wealthy parents with strong interests in maximizing their child's likelihood of admittance to an exclusive university frequently manipulate exceptions for students with disabilities; for instance, parents pay psychiatrists to diagnose their children with some form of learning disability in order to get longer testing time.
-STs are proven to be discriminatory on the basis of race; minority groups are statistically less likely to perform well.
-Wealthy students tend to have better preparation coming into these tests in two regards. Better-quality public or private schools have higher-quality teachers and better resources. Plus, the curriculum often emphasizes ST prep.
-While poor students may have to work part-time jobs or look after younger siblings after school, wealthier students are free of such obligations, giving them more time to prepare for standardized tests. This matters because exams often just test how well a student knows the exam.
-Standardized tests must be standard and uniform and nature; this forces them to adopt a prescriptivist approach to language, discriminating against groups that don't conform to those lingual norms.
-
-Next: Standardized Tests Unbiased.
-
-STs are objective, which means it's easier to identify and correct for imbalances and there's less capacity for admissions officers' subconscious biases to influence their judgment relative to essays or letters of recommendation.
-STs are, trivially, standardized, which means that unlike other components of the admission system, they provide a universal standard in which all students have an equal shot at doing well. Plus, people know what material is likely to show up on STs, which allows them to prepare.
-STs provide a unique opportunity for students from disprivileged and disadvantaged backgrounds to showcase their academic potential through a high testing score, even when other aspects of their application (for example, the opportunities they had in their underfunded public high school) are less competitive with applicants from wealthy backgrounds.
-There's been a proliferation of free resources (especially in the AI age) and pro bono ST tutors motivated by a sense of moral responsibility, as well as programs set up by high-scoring high school students to help struggling students with preparation for STs, as they're often looking to rack up volunteer hours for their rpsump. Plus, fee waivers exist and allow students to take these exams for free.
+Fourth, tests are fair. They are objective, so imbalances are easier to spot and correct, and they leave less room for the hidden biases of admissions officers reading essays and recommendation letters. Everyone knows what material is covered. A high score lets a talented student from an underfunded school stand out when the rest of their application cannot compete with wealthy applicants. And free prep resources, volunteer tutors and fee waivers are increasingly available.
 
 That was Standardized Tests. Next episode: SCOTUS on Affirmative Action.
