@@ -1,0 +1,91 @@
+Episode 120. European Union.
+E.U. Institutions.
+European Council.
+Structure.
+Acts as the E.U.'s collective presidency. Meets about 4 times annually.
+National leaders (heads of state or heads of government) represent each Member State.
+President of the European Council is selected by the other representatives in the Council.
+Power.
+Sets the E.U.'s policy agenda, amends the E.U. treaties as needed, and resolves policy disputes, but lacks formal legislative power.
+Appoints the President of the European Commission and the President of the European Central Bank.
+Confirms nominated members of the European Commission.
+European Commission.
+Structure.
+Each nation is entitled to one seat in the European Commission; each Commissioner is responsible for one particular policy area (for example, agriculture, fishing, etc). The President of the European Commission has the power to delegate policy areas to Commissioners within the EC.
+The European Council appoints the President of the European Commission, who then reviews a list of approved candidates from each nation.
+The European Parliament and European Council must then approve these nominations through a "qualified majority." Commissioners represent E.U. interests, not national interests.
+Power.
+Acts as the de facto executive body of the E.U.. Proposes legislation and monitors the enforcement of binding E.U. legislation within national governments.
+The European Commission also designs or plans the E.U.'s budget, which is subject to approval by the Council of the European Union and the European Parliament.
+European Parliament.
+Structure.
+Members of the European Parliament (MEPs) are directly elected every five years within each E.U. Member State on the basis of proportional representation.
+Nations are given power in the European Parliament in rough proportion to their population. Once elected, MEPs organize themselves by political affiliation, not by nationality.
+Power.
+The European Parliament does not initiate legislation; all legislation must first come from the European Commission (EC). However, the European Parliament has joint power with the Council of the E.U. to vote on proposed legislation.
+The European Parliament approves nominations for the European Commission (including the President of the Commission).
+Council of the European Union.
+Structure.
+National ministers represent governments in the Council of the E.U.. Different ministers are responsible for evaluating different laws based on the subject area involved (for example, finance ministers might be involved when debating proposed legislation pertaining to the economy).
+Power.
+The Council of the E.U. is the "upper house" of the E.U.'s legislative body, and passes laws in conjunction with the European Parliament.
+Court of Justice of the European Union.
+The Court of Justice of the European Union (CJEU) interprets E.U. law to make sure it is applied in the same way in all E.U. countries, and settles legal disputes between national governments and E.U. institutions. It can also, in certain circumstances, be used by individuals, companies or organizations to take action against an E.U. institution, if they feel it has infringed upon their rights.
+The CJEU consists of three distinct judicial entities:
+1) European Court of Justice.
+The Court ensures that E.U. law is followed, and that the Treaties are correctly interpreted and applied: it reviews the legality of the acts of the E.U. institutions, ensures that E.U. countries comply with their obligations under the Treaties, and interprets E.U. law at the request of national courts.
+2) General Court.
+Acts as the initial "trial court" for legal disputes within the E.U.. Decisions can be appealed to the ECJ.
+3) Civil Service Tribunal.
+Resolves legal disputes between the E.U. and members of the European civil service. In rare and exceptional cases, the ECJ can hear these cases, too.
+European Central Bank.
+**Of the 28 E.U. members, only 19 are in the eurozone. In practice, only those 19 members provide input to ECB leadership. The U.K. was never in the eurozone, and instead uses the GBP (pound sterling).
+Structure.
+All members are appointed by the European Council by qualified majority for a non-renewable eight-year term.
+Power.
+The primary objective of the ECB is to maintain price stability and keep inflation low.
+Members of the ECB's Executive Board are obligated to act in the best interests of the Eurozone as a whole, not for the benefit of any particular Member State or region.
+Other E.U. institutions and the national governments of the Member States are bound by treaty to respect the independence of the ECB. E.U. Competences.
+The E.U. has competence, or authority, to pass binding legislation if three criteria are met:
+1) Conferral, the E.U. has only that authority conferred upon it by the E.U. treaties, which have been ratified by all member countries.
+2) Proportionality, the E.U. action cannot exceed what is necessary to achieve the objectives of the treaties.
+3) Subsidiarity, in areas where either the E.U. or national governments can act, the E.U. may intervene only if it can act more effectively.
+The E.U. has exclusive competence over a few realms. This means that the E.U. alone is able to pass laws and member states are not allowed:
+Customs union.
+Competition rules for the single market.
+Monetary policy for the eurozone countries.
+Trade and international agreements**.
+**Only if the trade or agreement in question affects the entirety of the E.U. and must be negotiated and ratified by the E.U. Commission, rather than individual member states.
+Marine plants and animals regulated by the common fisheries policy.
+The E.U. has shared competence with national governments in a few areas. This means that both the E.U. and member countries are able to pass laws, but member countries can only do so if the E.U. has not already proposed laws or has decided that it will not:
+Single market; economic, social and territorial cohesion; consumer protection; trans-European networks and transport; energy; research and space travel or exploration; agriculture, fisheries, environment.
+Employment and social affairs within the confines of the TFEU (Treaty on the Functioning of the European Union), which aims to "promote employment, improve living and working conditions, provide adequate social protection and combat social exclusion;" development cooperation and humanitarian aid.
+Justice and fundamental rights; migration and home affairs; public health (for the aspects defined in Article 168, TFEU).
+In certain areas, the E.U. has supporting competence, which means that the E.U. can only support, coordinate or complement the actions of member countries, but lacks the power to pass laws and may not interfere with member countries' ability to do so: public health (Cf EUDC 2021 Open Final OO or CG), industry, culture, tourism, education and training, youth and sport, civil protection, and administrative cooperation. E.U. Voting.
+Qualified majority voting requires 55% of votes from representatives and 65% of votes from the E.U. electorate.
+Unanimity voting requires complete agreement amongst representatives. Within the European Commission, this is generally limited to a few types of matters:
+Common foreign and security policy (with the exception of certain clearly defined cases which require qualified majority, for example, appointment of a special representative).
+The E.U.'s Common Security and Defense Policy (CSDP) provides the European Union with an operational capacity to deploy civilian and military missions and operations abroad. The range of tasks is set out in the E.U. Treaties, ranging from conflict prevention and peace-keeping, crisis management, joint disarmament operations, and military advice and assistance tasks to humanitarian and rescue and post-conflict stabilization tasks. The first E.U. missions were launched in 2003, including the E.U.'s policing mission in Bosnia and Herzegovina and a military operation in North Macedonia. Since then, the E.U. has launched and run 36 operations and missions on three continents. As of today, there are 17 ongoing CSDP missions and operations, of which 11 are civilian and 6 military.
+Citizenship (the granting of new rights to E.U. citizens).
+E.U. membership.
+Harmonization of national legislation on indirect taxation, including the E.U.'s VAT (value added tax).
+E.U. finances (own resources, the multiannual financial framework).
+certain provisions in the field of justice and home affairs (the European prosecutor, family law, operational police cooperation).
+Harmonization of national legislation in the field of social security and social protection. E.U. Enlargement.
+In order for a country to become part of the E.U, the same must meet all the "Copenhagen Criteria." The main criteria are the free-market economy, a stable democracy and the rule of law, and the acceptance of all E.U. legislation, including the euro. Political criteria are the most important: these include having universal suffrage, free elections and a free press, an independent judiciary, and protections for minorities. Applicant nations must join and ratify the European Convention on Human Rights.
+The regular procedure for E.U. membership consists of three stages:
+1) The first stage is when a country is granted the status of an official candidate for membership. Currently, this includes Albania, North Macedonia, Montenegro, Turkey, and Serbia.
+Albania applied for E.U. membership in April 2009 and received the candidate status in June 2014.
+North Macedonia was declared a candidate country in December 2005. In 2015/2016, the E.U. Commission's recommendation to open ascension negotiations was made conditional on the continued implementation of the Pråino agreement (negotiated deal between the E.U. and North Macedonia, which called for opposition parties like SDSM to be allowed to participate in future elections, for a caretaker government to be implemented followed by a round of new general elections, and for the corrupt PM Nikola Gruevski to step down).
+Montenegro submitted the application for E.U. membership in December 2008, and was granted in December 2010.
+Turkey was declared a candidate country in December 1999. Negotiation talks were opened in October 2005. Technical discussions are on-going in areas such as water, waste, nature protection or horizontal legislation.
+Serbia applied for the candidate country status in December 2009; this was granted in March 2012.
+2) The second stage is when membership negotiations between the E.U. and the candidate country start, which is a process that includes the adoption of E.U. law into national law (which is what drags the ascension process out for years upon years) and the preparation for the implementation of this law in judicial, administrative, economic areas, as well as other reforms. All current E.U. member states must agree to the treaty that permits new members to join.
+3) The third stage is when the candidate country has met all accession criteria and is ready to become part of the E.U..
+E.U. expansionism in the Balkans.
+The Stabilization and Association Process (SAP) is the European Union's policy towards the Western Balkans, established with the aim of eventual E.U. membership. Western Balkan countries are involved in a progressive partnership with a view of stabilizing the region and establishing a free-trade area. The SAP sets out common political and economic goals although progress evaluation is based on countries' own merits.
+Since 2000, the E.U. has been granting autonomous trade preferences to all the Western Balkans. These preferences, which were renewed at the end of 2020, allow nearly all exports to enter the E.U. without customs duties or limits on quantities. Only sugar, wine, baby beef and certain fisheries products enter the E.U. under preferential tariff quotas.
+Since the launch of the Stabilization and Association Process, the E.U. has progressively concluded bilateral FTAs, referred to as "Stabilization and Association Agreements" (SAAs) with each of the Western Balkan partners: Albania (2009), North Macedonia (2004), Montenegro (2010), Serbia (2013), Bosnia and Herzegovina (2015) and Kosovo (2016).
+The SAAs are tools which provide for the economic development and political stabilization of the countries in the region, and for the creation of a close, long-term association between the E.U. and the Western Balkans. In effect, the SAAs constitute the legal instrument for alignment to the E.U. acquis (accumulated legislation, legal acts and court decisions that constitute the body of European Union law) and progressive integration into the E.U. market.
+
+That was European Union. Next episode: Niger.

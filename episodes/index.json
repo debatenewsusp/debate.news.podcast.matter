@@ -1,0 +1,1137 @@
+[
+ {
+  "n": 1,
+  "title": "State Ownership",
+  "subtopics": [
+   "Nationalization",
+   "Privatization"
+  ],
+  "file": "episodes/001.txt",
+  "words": 2238
+ },
+ {
+  "n": 2,
+  "title": "Resource Curse",
+  "subtopics": [],
+  "file": "episodes/002.txt",
+  "words": 355
+ },
+ {
+  "n": 3,
+  "title": "Currency Strength",
+  "subtopics": [],
+  "file": "episodes/003.txt",
+  "words": 93
+ },
+ {
+  "n": 4,
+  "title": "Interest Rates",
+  "subtopics": [
+   "FOMC",
+   "Lower Rates",
+   "Raise Rates",
+   "High/Low Nominal Rates"
+  ],
+  "file": "episodes/004.txt",
+  "words": 927
+ },
+ {
+  "n": 5,
+  "title": "Too Big To Fail",
+  "subtopics": [
+   "TBTF G–SIFIs",
+   "Break Up G–SIFIs",
+   "Nationalize SIFIs",
+   "G–SIFIs are Good",
+   "Bailouts"
+  ],
+  "file": "episodes/005.txt",
+  "words": 5538
+ },
+ {
+  "n": 6,
+  "title": "Free Trade",
+  "subtopics": [],
+  "file": "episodes/006.txt",
+  "words": 1176
+ },
+ {
+  "n": 7,
+  "title": "Inflation",
+  "subtopics": [],
+  "file": "episodes/007.txt",
+  "words": 196
+ },
+ {
+  "n": 8,
+  "title": "Labor Rights",
+  "subtopics": [
+   "Wages",
+   "Unions"
+  ],
+  "file": "episodes/008.txt",
+  "words": 389
+ },
+ {
+  "n": 9,
+  "title": "Sanctions",
+  "subtopics": [
+   "Against Sanctions",
+   "For Sanctions"
+  ],
+  "file": "episodes/009.txt",
+  "words": 1436
+ },
+ {
+  "n": 10,
+  "title": "Leadership Decapitation",
+  "subtopics": [],
+  "file": "episodes/010.txt",
+  "words": 1825
+ },
+ {
+  "n": 11,
+  "title": "Military Invasions",
+  "subtopics": [],
+  "file": "episodes/011.txt",
+  "words": 1177
+ },
+ {
+  "n": 12,
+  "title": "Drone Strikes",
+  "subtopics": [],
+  "file": "episodes/012.txt",
+  "words": 1656
+ },
+ {
+  "n": 13,
+  "title": "FDI/MNCs",
+  "subtopics": [],
+  "file": "episodes/013.txt",
+  "words": 218
+ },
+ {
+  "n": 14,
+  "title": "Urbanization",
+  "subtopics": [
+   "Urbanization Good",
+   "Urbanization Bad"
+  ],
+  "file": "episodes/014.txt",
+  "words": 1252
+ },
+ {
+  "n": 15,
+  "title": "Censorship",
+  "subtopics": [
+   "Corporate Censorship Good",
+   "Corporate Censorship Bad"
+  ],
+  "file": "episodes/015.txt",
+  "words": 731
+ },
+ {
+  "n": 16,
+  "title": "Free Speech",
+  "subtopics": [
+   "Defending Free Speech",
+   "Curbing Free Speech"
+  ],
+  "file": "episodes/016.txt",
+  "words": 1896
+ },
+ {
+  "n": 17,
+  "title": "Social Justice Stock Arguments",
+  "subtopics": [
+   "Radicalism",
+   "Leaders",
+   "Court Successes",
+   "Leader-Led Protests"
+  ],
+  "file": "episodes/017.txt",
+  "words": 2486
+ },
+ {
+  "n": 18,
+  "title": "Justice System",
+  "subtopics": [
+   "Deontological CJS",
+   "Future Victims",
+   "Current Victims",
+   "Progressive Judges",
+   "Conservative Judges",
+   "Deterrence Fails",
+   "Legal Cynicism",
+   "Long Sentences Good",
+   "Longer Sentences Bad",
+   "Ludovico Technique",
+   "Jury Nullification Bad"
+  ],
+  "file": "episodes/018.txt",
+  "words": 3298
+ },
+ {
+  "n": 19,
+  "title": "Free Will",
+  "subtopics": [],
+  "file": "episodes/019.txt",
+  "words": 293
+ },
+ {
+  "n": 20,
+  "title": "State Power Principle",
+  "subtopics": [
+   "Autonomy",
+   "Anti-Democracy Principles",
+   "Social Contract"
+  ],
+  "file": "episodes/020.txt",
+  "words": 2948
+ },
+ {
+  "n": 21,
+  "title": "Money vs Happiness",
+  "subtopics": [],
+  "file": "episodes/021.txt",
+  "words": 756
+ },
+ {
+  "n": 22,
+  "title": "Federalization",
+  "subtopics": [],
+  "file": "episodes/022.txt",
+  "words": 916
+ },
+ {
+  "n": 23,
+  "title": "Drug Legalization",
+  "subtopics": [],
+  "file": "episodes/023.txt",
+  "words": 2345
+ },
+ {
+  "n": 24,
+  "title": "Religion",
+  "subtopics": [
+   "Stock Religious Arguments",
+   "Separation of Church and State",
+   "Religious Coercion",
+   "Religion Good",
+   "Religion Bad",
+   "God Likely Exists"
+  ],
+  "file": "episodes/024.txt",
+  "words": 921
+ },
+ {
+  "n": 25,
+  "title": "Standardized Tests",
+  "subtopics": [
+   "Standardized Tests Bad Metrics",
+   "Standardized Tests Good Metrics",
+   "Standardized Tests Biased",
+   "Standardized Tests Unbiased"
+  ],
+  "file": "episodes/025.txt",
+  "words": 733
+ },
+ {
+  "n": 26,
+  "title": "SCOTUS on Affirmative Action",
+  "subtopics": [],
+  "file": "episodes/026.txt",
+  "words": 1715
+ },
+ {
+  "n": 27,
+  "title": "Dollar Hegemony",
+  "subtopics": [],
+  "file": "episodes/027.txt",
+  "words": 1922
+ },
+ {
+  "n": 28,
+  "title": "Residential Zoning",
+  "subtopics": [],
+  "file": "episodes/028.txt",
+  "words": 5057
+ },
+ {
+  "n": 29,
+  "title": "Football Leagues",
+  "subtopics": [
+   "Football Club Ownership"
+  ],
+  "file": "episodes/029.txt",
+  "words": 977
+ },
+ {
+  "n": 30,
+  "title": "Proselytization",
+  "subtopics": [],
+  "file": "episodes/030.txt",
+  "words": 2180
+ },
+ {
+  "n": 31,
+  "title": "Terrorism",
+  "subtopics": [],
+  "file": "episodes/031.txt",
+  "words": 819
+ },
+ {
+  "n": 32,
+  "title": "Transnational Criminal Organizations",
+  "subtopics": [],
+  "file": "episodes/032.txt",
+  "words": 867
+ },
+ {
+  "n": 33,
+  "title": "al-Qaeda",
+  "subtopics": [],
+  "file": "episodes/033.txt",
+  "words": 1685
+ },
+ {
+  "n": 34,
+  "title": "Marriage",
+  "subtopics": [],
+  "file": "episodes/034.txt",
+  "words": 487
+ },
+ {
+  "n": 35,
+  "title": "Economic Technocrats",
+  "subtopics": [],
+  "file": "episodes/035.txt",
+  "words": 1028
+ },
+ {
+  "n": 36,
+  "title": "War Reporting",
+  "subtopics": [],
+  "file": "episodes/036.txt",
+  "words": 2174
+ },
+ {
+  "n": 37,
+  "title": "Motherhood",
+  "subtopics": [],
+  "file": "episodes/037.txt",
+  "words": 381
+ },
+ {
+  "n": 38,
+  "title": "Carceral Feminism",
+  "subtopics": [],
+  "file": "episodes/038.txt",
+  "words": 589
+ },
+ {
+  "n": 39,
+  "title": "State-Sponsored Homeownership",
+  "subtopics": [
+   "Homeownership Good"
+  ],
+  "file": "episodes/039.txt",
+  "words": 501
+ },
+ {
+  "n": 40,
+  "title": "High Impact Charities",
+  "subtopics": [],
+  "file": "episodes/040.txt",
+  "words": 472
+ },
+ {
+  "n": 41,
+  "title": "AI in Law Enforcement",
+  "subtopics": [],
+  "file": "episodes/041.txt",
+  "words": 1257
+ },
+ {
+  "n": 42,
+  "title": "OnlyFans",
+  "subtopics": [],
+  "file": "episodes/042.txt",
+  "words": 448
+ },
+ {
+  "n": 43,
+  "title": "Agriculture",
+  "subtopics": [],
+  "file": "episodes/043.txt",
+  "words": 623
+ },
+ {
+  "n": 44,
+  "title": "American Anti-Black Racism",
+  "subtopics": [],
+  "file": "episodes/044.txt",
+  "words": 484
+ },
+ {
+  "n": 45,
+  "title": "Art Museums/Galleries",
+  "subtopics": [],
+  "file": "episodes/045.txt",
+  "words": 1095
+ },
+ {
+  "n": 46,
+  "title": "Monopolies",
+  "subtopics": [],
+  "file": "episodes/046.txt",
+  "words": 778
+ },
+ {
+  "n": 47,
+  "title": "Moral Philosophy",
+  "subtopics": [],
+  "file": "episodes/047.txt",
+  "words": 574
+ },
+ {
+  "n": 48,
+  "title": "Populist Politics",
+  "subtopics": [],
+  "file": "episodes/048.txt",
+  "words": 1260
+ },
+ {
+  "n": 49,
+  "title": "Higher Education",
+  "subtopics": [],
+  "file": "episodes/049.txt",
+  "words": 1167
+ },
+ {
+  "n": 50,
+  "title": "Indigenous Oppression",
+  "subtopics": [],
+  "file": "episodes/050.txt",
+  "words": 1135
+ },
+ {
+  "n": 51,
+  "title": "Relationships Imbalances",
+  "subtopics": [],
+  "file": "episodes/051.txt",
+  "words": 826
+ },
+ {
+  "n": 52,
+  "title": "Life of Jesus",
+  "subtopics": [],
+  "file": "episodes/052.txt",
+  "words": 1267
+ },
+ {
+  "n": 53,
+  "title": "Life of Prophet Muhammad",
+  "subtopics": [],
+  "file": "episodes/053.txt",
+  "words": 702
+ },
+ {
+  "n": 54,
+  "title": "US Swing Votes 2024",
+  "subtopics": [],
+  "file": "episodes/054.txt",
+  "words": 445
+ },
+ {
+  "n": 55,
+  "title": "Religious Meaning",
+  "subtopics": [],
+  "file": "episodes/055.txt",
+  "words": 660
+ },
+ {
+  "n": 56,
+  "title": "IMF",
+  "subtopics": [],
+  "file": "episodes/056.txt",
+  "words": 1603
+ },
+ {
+  "n": 57,
+  "title": "Space Exploration",
+  "subtopics": [],
+  "file": "episodes/057.txt",
+  "words": 687
+ },
+ {
+  "n": 58,
+  "title": "Judicial System",
+  "subtopics": [
+   "Judicial Elections",
+   "Plea Bargaining"
+  ],
+  "file": "episodes/058.txt",
+  "words": 2528
+ },
+ {
+  "n": 59,
+  "title": "Developing World Queer Activism",
+  "subtopics": [],
+  "file": "episodes/059.txt",
+  "words": 625
+ },
+ {
+  "n": 60,
+  "title": "Strategic Decoupling",
+  "subtopics": [],
+  "file": "episodes/060.txt",
+  "words": 1780
+ },
+ {
+  "n": 61,
+  "title": "Children’s Media",
+  "subtopics": [],
+  "file": "episodes/061.txt",
+  "words": 1129
+ },
+ {
+  "n": 62,
+  "title": "Pharmaceuticals",
+  "subtopics": [],
+  "file": "episodes/062.txt",
+  "words": 1918
+ },
+ {
+  "n": 63,
+  "title": "Emotional Psychology",
+  "subtopics": [],
+  "file": "episodes/063.txt",
+  "words": 1282
+ },
+ {
+  "n": 64,
+  "title": "Sexual Violence",
+  "subtopics": [],
+  "file": "episodes/064.txt",
+  "words": 927
+ },
+ {
+  "n": 65,
+  "title": "China's Economic Slowdown",
+  "subtopics": [],
+  "file": "episodes/065.txt",
+  "words": 1096
+ },
+ {
+  "n": 66,
+  "title": "Development of Artificial Intelligence",
+  "subtopics": [
+   "LLMs",
+   "Private Sector’s Influence"
+  ],
+  "file": "episodes/066.txt",
+  "words": 2961
+ },
+ {
+  "n": 67,
+  "title": "Jerome Powell",
+  "subtopics": [],
+  "file": "episodes/067.txt",
+  "words": 706
+ },
+ {
+  "n": 68,
+  "title": "Professional Sport Harms",
+  "subtopics": [],
+  "file": "episodes/068.txt",
+  "words": 508
+ },
+ {
+  "n": 69,
+  "title": "Fiscal Stimulus",
+  "subtopics": [],
+  "file": "episodes/069.txt",
+  "words": 1682
+ },
+ {
+  "n": 70,
+  "title": "Broken Windows Policing",
+  "subtopics": [],
+  "file": "episodes/070.txt",
+  "words": 1358
+ },
+ {
+  "n": 71,
+  "title": "US Deindustrialization",
+  "subtopics": [],
+  "file": "episodes/071.txt",
+  "words": 484
+ },
+ {
+  "n": 72,
+  "title": "Politics of Central Banking",
+  "subtopics": [
+   "Argentina’s Economy"
+  ],
+  "file": "episodes/072.txt",
+  "words": 2471
+ },
+ {
+  "n": 73,
+  "title": "Islamic Feminism",
+  "subtopics": [],
+  "file": "episodes/073.txt",
+  "words": 1823
+ },
+ {
+  "n": 74,
+  "title": "Sweatshops and Child Labor",
+  "subtopics": [],
+  "file": "episodes/074.txt",
+  "words": 3113
+ },
+ {
+  "n": 75,
+  "title": "Judicial Term Limits",
+  "subtopics": [],
+  "file": "episodes/075.txt",
+  "words": 917
+ },
+ {
+  "n": 76,
+  "title": "Journalism",
+  "subtopics": [],
+  "file": "episodes/076.txt",
+  "words": 850
+ },
+ {
+  "n": 77,
+  "title": "Religious Conflict Isn’t Religious",
+  "subtopics": [],
+  "file": "episodes/077.txt",
+  "words": 918
+ },
+ {
+  "n": 78,
+  "title": "Philosophy of Art",
+  "subtopics": [],
+  "file": "episodes/078.txt",
+  "words": 556
+ },
+ {
+  "n": 79,
+  "title": "S-Risks",
+  "subtopics": [
+   "Take This Seriously!"
+  ],
+  "file": "episodes/079.txt",
+  "words": 2226
+ },
+ {
+  "n": 80,
+  "title": "AI and Democracy",
+  "subtopics": [],
+  "file": "episodes/080.txt",
+  "words": 404
+ },
+ {
+  "n": 81,
+  "title": "Underprivileged Schools",
+  "subtopics": [],
+  "file": "episodes/081.txt",
+  "words": 1157
+ },
+ {
+  "n": 82,
+  "title": "Greek Debt Crisis",
+  "subtopics": [],
+  "file": "episodes/082.txt",
+  "words": 3269
+ },
+ {
+  "n": 83,
+  "title": "Voter Turnout",
+  "subtopics": [],
+  "file": "episodes/083.txt",
+  "words": 634
+ },
+ {
+  "n": 84,
+  "title": "WFH",
+  "subtopics": [],
+  "file": "episodes/084.txt",
+  "words": 937
+ },
+ {
+  "n": 85,
+  "title": "Development Aid",
+  "subtopics": [],
+  "file": "episodes/085.txt",
+  "words": 1684
+ },
+ {
+  "n": 86,
+  "title": "Dominant Political Parties",
+  "subtopics": [],
+  "file": "episodes/086.txt",
+  "words": 1714
+ },
+ {
+  "n": 87,
+  "title": "Securities Firms",
+  "subtopics": [],
+  "file": "episodes/087.txt",
+  "words": 749
+ },
+ {
+  "n": 88,
+  "title": "Court Debt",
+  "subtopics": [],
+  "file": "episodes/088.txt",
+  "words": 800
+ },
+ {
+  "n": 89,
+  "title": "Mercenaries",
+  "subtopics": [],
+  "file": "episodes/089.txt",
+  "words": 2226
+ },
+ {
+  "n": 90,
+  "title": "Lesbian Separatism",
+  "subtopics": [],
+  "file": "episodes/090.txt",
+  "words": 1296
+ },
+ {
+  "n": 91,
+  "title": "State Capitalism and Anti-Globalization",
+  "subtopics": [],
+  "file": "episodes/091.txt",
+  "words": 1501
+ },
+ {
+  "n": 92,
+  "title": "Competitive Authoritarianism",
+  "subtopics": [],
+  "file": "episodes/092.txt",
+  "words": 805
+ },
+ {
+  "n": 93,
+  "title": "Labor Markets",
+  "subtopics": [
+   "UAW Strike"
+  ],
+  "file": "episodes/093.txt",
+  "words": 4928
+ },
+ {
+  "n": 94,
+  "title": "International Political Economy",
+  "subtopics": [],
+  "file": "episodes/094.txt",
+  "words": 5302
+ },
+ {
+  "n": 95,
+  "title": "Poland’s Elections",
+  "subtopics": [],
+  "file": "episodes/095.txt",
+  "words": 207
+ },
+ {
+  "n": 96,
+  "title": "1MDB Scandal",
+  "subtopics": [],
+  "file": "episodes/096.txt",
+  "words": 172
+ },
+ {
+  "n": 97,
+  "title": "US v Google",
+  "subtopics": [],
+  "file": "episodes/097.txt",
+  "words": 250
+ },
+ {
+  "n": 98,
+  "title": "Sam Bankman-Fried",
+  "subtopics": [],
+  "file": "episodes/098.txt",
+  "words": 157
+ },
+ {
+  "n": 99,
+  "title": "Activist Investing",
+  "subtopics": [],
+  "file": "episodes/099.txt",
+  "words": 105
+ },
+ {
+  "n": 100,
+  "title": "Israeli Judicial Reforms",
+  "subtopics": [],
+  "file": "episodes/100.txt",
+  "words": 808
+ },
+ {
+  "n": 101,
+  "title": "Trump’s Indictments",
+  "subtopics": [],
+  "file": "episodes/101.txt",
+  "words": 292
+ },
+ {
+  "n": 102,
+  "title": "Twitter Under Musk",
+  "subtopics": [],
+  "file": "episodes/102.txt",
+  "words": 314
+ },
+ {
+  "n": 103,
+  "title": "Post Conflict Societies",
+  "subtopics": [
+   "Case Studies",
+   "Prosecution",
+   "TRCs"
+  ],
+  "file": "episodes/103.txt",
+  "words": 11030
+ },
+ {
+  "n": 104,
+  "title": "China’s History",
+  "subtopics": [
+   "China’s Century of Humiliation"
+  ],
+  "file": "episodes/104.txt",
+  "words": 2981
+ },
+ {
+  "n": 105,
+  "title": "China’s Internal Politics",
+  "subtopics": [],
+  "file": "episodes/105.txt",
+  "words": 1148
+ },
+ {
+  "n": 106,
+  "title": "China’s SOEs",
+  "subtopics": [],
+  "file": "episodes/106.txt",
+  "words": 1125
+ },
+ {
+  "n": 107,
+  "title": "China’s Irredentism",
+  "subtopics": [
+   "Hong Kong",
+   "Tibet",
+   "Taiwan"
+  ],
+  "file": "episodes/107.txt",
+  "words": 2012
+ },
+ {
+  "n": 108,
+  "title": "China’s Military Modernization",
+  "subtopics": [],
+  "file": "episodes/108.txt",
+  "words": 590
+ },
+ {
+  "n": 109,
+  "title": "PLA Invasion of Taiwan",
+  "subtopics": [],
+  "file": "episodes/109.txt",
+  "words": 2755
+ },
+ {
+  "n": 110,
+  "title": "China’s Slowdown",
+  "subtopics": [],
+  "file": "episodes/110.txt",
+  "words": 932
+ },
+ {
+  "n": 111,
+  "title": "FARC Insurgency",
+  "subtopics": [],
+  "file": "episodes/111.txt",
+  "words": 2000
+ },
+ {
+  "n": 112,
+  "title": "Venezuela",
+  "subtopics": [],
+  "file": "episodes/112.txt",
+  "words": 1374
+ },
+ {
+  "n": 113,
+  "title": "Iran",
+  "subtopics": [
+   "JCPOA Timeline",
+   "Debating JCPOA",
+   "Mahsa Amini"
+  ],
+  "file": "episodes/113.txt",
+  "words": 2350
+ },
+ {
+  "n": 114,
+  "title": "Armenia/Azerbaijan",
+  "subtopics": [],
+  "file": "episodes/114.txt",
+  "words": 966
+ },
+ {
+  "n": 115,
+  "title": "Yemen",
+  "subtopics": [],
+  "file": "episodes/115.txt",
+  "words": 2112
+ },
+ {
+  "n": 116,
+  "title": "Syria",
+  "subtopics": [],
+  "file": "episodes/116.txt",
+  "words": 1954
+ },
+ {
+  "n": 117,
+  "title": "Afghanistan",
+  "subtopics": [],
+  "file": "episodes/117.txt",
+  "words": 3540
+ },
+ {
+  "n": 118,
+  "title": "Ukraine",
+  "subtopics": [
+   "Counteroffensive’s Failure",
+   "Western Military Aid",
+   "December 2023"
+  ],
+  "file": "episodes/118.txt",
+  "words": 2443
+ },
+ {
+  "n": 119,
+  "title": "Russia",
+  "subtopics": [
+   "North Korea",
+   "Prigozhin"
+  ],
+  "file": "episodes/119.txt",
+  "words": 3243
+ },
+ {
+  "n": 120,
+  "title": "European Union",
+  "subtopics": [],
+  "file": "episodes/120.txt",
+  "words": 1943
+ },
+ {
+  "n": 121,
+  "title": "Niger",
+  "subtopics": [],
+  "file": "episodes/121.txt",
+  "words": 986
+ },
+ {
+  "n": 122,
+  "title": "Ecuador",
+  "subtopics": [],
+  "file": "episodes/122.txt",
+  "words": 569
+ },
+ {
+  "n": 123,
+  "title": "El Salvador and Bukele",
+  "subtopics": [],
+  "file": "episodes/123.txt",
+  "words": 148
+ },
+ {
+  "n": 124,
+  "title": "NATO",
+  "subtopics": [],
+  "file": "episodes/124.txt",
+  "words": 295
+ },
+ {
+  "n": 125,
+  "title": "Sudan",
+  "subtopics": [],
+  "file": "episodes/125.txt",
+  "words": 341
+ },
+ {
+  "n": 126,
+  "title": "South Sudan",
+  "subtopics": [],
+  "file": "episodes/126.txt",
+  "words": 415
+ },
+ {
+  "n": 127,
+  "title": "Ethiopia",
+  "subtopics": [],
+  "file": "episodes/127.txt",
+  "words": 472
+ },
+ {
+  "n": 128,
+  "title": "Ukraine",
+  "subtopics": [],
+  "file": "episodes/128.txt",
+  "words": 409
+ },
+ {
+  "n": 129,
+  "title": "Françafrique",
+  "subtopics": [],
+  "file": "episodes/129.txt",
+  "words": 1087
+ },
+ {
+  "n": 130,
+  "title": "DRC",
+  "subtopics": [],
+  "file": "episodes/130.txt",
+  "words": 825
+ },
+ {
+  "n": 131,
+  "title": "Jamaica",
+  "subtopics": [],
+  "file": "episodes/131.txt",
+  "words": 660
+ },
+ {
+  "n": 132,
+  "title": "ICC",
+  "subtopics": [],
+  "file": "episodes/132.txt",
+  "words": 1006
+ },
+ {
+  "n": 133,
+  "title": "Saudi Arabia",
+  "subtopics": [],
+  "file": "episodes/133.txt",
+  "words": 2471
+ },
+ {
+  "n": 134,
+  "title": "Japan",
+  "subtopics": [],
+  "file": "episodes/134.txt",
+  "words": 1062
+ },
+ {
+  "n": 135,
+  "title": "South Korea",
+  "subtopics": [],
+  "file": "episodes/135.txt",
+  "words": 3022
+ },
+ {
+  "n": 136,
+  "title": "Brunei",
+  "subtopics": [],
+  "file": "episodes/136.txt",
+  "words": 899
+ },
+ {
+  "n": 137,
+  "title": "Myanmar",
+  "subtopics": [],
+  "file": "episodes/137.txt",
+  "words": 3626
+ },
+ {
+  "n": 138,
+  "title": "Cambodia",
+  "subtopics": [],
+  "file": "episodes/138.txt",
+  "words": 1392
+ },
+ {
+  "n": 139,
+  "title": "Vietnam",
+  "subtopics": [],
+  "file": "episodes/139.txt",
+  "words": 7145
+ },
+ {
+  "n": 140,
+  "title": "East Timor",
+  "subtopics": [],
+  "file": "episodes/140.txt",
+  "words": 287
+ },
+ {
+  "n": 141,
+  "title": "Thailand",
+  "subtopics": [],
+  "file": "episodes/141.txt",
+  "words": 1052
+ },
+ {
+  "n": 142,
+  "title": "Indonesia",
+  "subtopics": [],
+  "file": "episodes/142.txt",
+  "words": 530
+ },
+ {
+  "n": 143,
+  "title": "Laos",
+  "subtopics": [],
+  "file": "episodes/143.txt",
+  "words": 409
+ },
+ {
+  "n": 144,
+  "title": "Malaysia",
+  "subtopics": [],
+  "file": "episodes/144.txt",
+  "words": 727
+ },
+ {
+  "n": 145,
+  "title": "Philippines",
+  "subtopics": [],
+  "file": "episodes/145.txt",
+  "words": 765
+ },
+ {
+  "n": 146,
+  "title": "Singapore",
+  "subtopics": [],
+  "file": "episodes/146.txt",
+  "words": 359
+ },
+ {
+  "n": 147,
+  "title": "Australia",
+  "subtopics": [],
+  "file": "episodes/147.txt",
+  "words": 429
+ },
+ {
+  "n": 148,
+  "title": "ASEAN",
+  "subtopics": [],
+  "file": "episodes/148.txt",
+  "words": 3640
+ }
+]

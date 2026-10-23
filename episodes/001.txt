@@ -1,0 +1,96 @@
+Episode 1. State Ownership.
+Today's subtopics: Nationalization, and Privatization.
+
+Next: Nationalization.
+
+In short: Private-sector profit incentives raise prices for consumers, lower the quality of services, and lead to the mistreatment of workers; conversely, governments face strong political incentives to ensure services remain affordable, especially when private firms establish natural monopolies. State-owned companies can act as vehicles of development, acting in unison with state priorities and helping to implement long-term development agendas. Privatization also worsens corruption: state bureaucrats possess "shadow" influence, since governments usually retain hefty (albeit non-majority) stakes in recently-privatized firms or issue renewable contracts (like for extractive projects), yet private industries face less public (political) scrutiny and are rarely as transparent as state-owned firms. Furthermore, privatization is highly contentious and often foments instability in domestic politics; even worse, privatizing industries often reduces access to vital services (like electricity or transportation infrastructure) in highly poor areas, where profits simply can't be made. Nationalization might improve long-term state-building by developing a mass of experienced bureaucrats capable of managing large-scale enterprises.
+Natural monopolies operating in industries characterized by demand inelasticity must be nationalized.
+Markets work only when companies face competitive pressures to lower prices and innovate. Competitive pressures only exist within an industry when new firms can enter that industry.
+When the barriers to entry are crushingly high, competitive mechanisms of accountability fall short.
+In this context, and when demand does not decrease significantly when prices increase significantly (that is, demand is inelastic), companies are able to price gouge.
+When companies face limited competition, the labor market operates as a monopsony with an oligopoly of employers. That hurts workers' bargaining power.
+Barriers to entry include: (1) Supply-side economies of scale (for example, scale overcomes high fixed costs). (2) Demand-side network economies (for example, trust, established user base, data-refined algorithms, market power of advertising). (3) Capital constraints (for example, profitability takes years to achieve). (4) Incumbency advantages (for example, proprietary technologies, patents or IP, preferential access to raw materials, institutional experience). (5) Unequal access to distribution channels (for example, exclusivity arrangements with retailers). (6) Expected reaction of established firm (for example, predatory pricing). (7) Restrictive regulations (for example, licensing, zoning).
+Private-sector incentives are worse than public-sector incentives.
+Exploitation: Profit maximization incentivizes companies to (i) price gouge, (ii) reduce innovation or R&D, and (iii) mistreat workers. Governments are better: they must appeal to a broad electoral base, avoid controversy to maximize electability, delegate management to impartial civil service bureaucrats, report information transparently to the public, and learn from past mistakes over the long haul.
+Geography: SOEs cross-subsidize losses to provide services in low-income areas, even where profit cannot be found.
+Long-Term: Private companies are focused on the short-term:
+Most MNCs are publicly traded; quarterly reporting requirements force companies to maximize short-term earnings, which institutional investors scrutinize closely.
+Uncertain economic conditions deter companies from assuming long-term risks; so too does competition, if your company's existence is on the line, sustaining short-term profitability takes precedence over long-term investments.
+Conversely, governments care about the long term:
+Party elites care about the legacy they leave behind.
+Voters support long-term initiatives (for example, poverty alleviation via infrastructure).
+Long-term projects (for example, construction initiatives) create short-term gains (for example, new jobs), hence appeasing short-termist voters.
+Parties must fight for their long-term interests; individual parliamentarians have strong incentives to promote their long-term electability.
+Beginning long-term projects improves countries' standing with international creditors by signaling a commitment to long-run growth.
+Private-sector companies are less accountable than governments.
+Blue-chip companies are accountable solely to the investors and shareholders, while governments must be responsive to electoral pressures and activists.
+Governments must be more transparent than private-sector companies, which hide behind intellectual property protections.
+Governments have constitutional and legal duties to maximize the well-being of the general public; failing those duties is subject to litigation.
+Few people believe they (either individually or collectively) can change the behavior of multi-billion-dollar multinational corporations, but many believe (due to past precedent) that they can affect change in governments.
+Politicians cannot withstand controversy as well as corporate actors since electoral campaigns quickly blow controversies out of proportion.
+Nationalization expedites redistribution.
+Nationalized SOEs keep profits at home whereas multinational corporations send profits to offshore bank accounts in Western economies.
+Governments are more attuned to the non-economic needs of local communities and hence manage SOEs in more prosocial ways than profit-driven companies (for example, production of crucial goods after natural disasters, repurposing companies in times of financial crisis).
+Nationalization is justified.
+Market failure justifies nationalization (for example, coercive monopolization justifies state intervention). In particular, when monopolies arise naturally (for example, water utilities), nationalization is crucial.
+Markets are valuable instrumentally (that is, markets are good inasmuch as they provide services efficiently at fair prices); when nationalization better achieves those ends, nationalization is justified.
+Regulation is insufficient.
+Corporations wield great influence over legislators via lobbying, campaign finance contributions, and personal connections. That means (i) regulations are gutted during parliamentary debates, (ii) regulations are often rolled back in successive years, and (iii) pro-deregulation candidates gain power in future elections.
+All regulations must contain loopholes and exceptions; large companies employ vast armies of well-paid corporate lawyers to sift through legal codes and find ways to exploit those loopholes.
+Regulatory lag undermines regulations' effectiveness: companies move faster than bureaucratic regulators, side-stepping regulations faster than regulators can patch regulatory holes.
+Legislators, and the laws they pass, are often incompetent (for example, on technological or financial matters) due to age, hubris, and inexperience.
+Regulatory capture:
+Regulatory agencies are captured by the very companies they intend to regulate per the "revolving door" effect and intense lobbying by companies affected by regulation.
+Regulatory agencies usually require industry cooperation, incentivizing such agencies to bend the knee and acquiesce to companies' demands.
+Regulations disproportionately hurt smaller firms, increasing consolidation, and therefore buttressing the bargaining power of established firms.
+Bureaucrats are often understaffed and under-resourced relative to multinational corporations.
+The political support for robust regulation is diffuse (for example, millions of consumers) whereas businesses constitute organized interests with greater stakes in regulatory policy.
+Privatization is ineffective.
+Companies fear renationalization (for example, the 1960s/70s wave of nationalization was followed by the 1980s/90s wave of privatization which was then followed by the 2000s/10s wave of re-nationalization).
+Privatization worsens corruption: the bidding process is rife with corruption and sweetheart deals, with thousand-page deals transferring ownership of multi-billion-dollar companies behind closed doors. Comparatively, SOEs remain visibly subject to scrutiny.
+
+Next: Privatization.
+
+In short: State-owned enterprises are vectors of corruption because they incentivize political graft and become enmeshed in patronage networks; as such, SOEs frequently provide low-quality services. Conversely, regulations (for example, price controls or consumer subsidies) can limit private-sector price-gouging while still permitting the competition between private firms that, in time, reduces costs, enhances efficiency, and improves the quality of services. Foreign firms often have better technology, expertise, and institutional knowledge for managing complex corporate operations, like resource extraction projects; even better, MNCs commonly can borrow more affordably than debt-saddled governments, therefore spurring greater investment. And while short-termism dominates political parties, large corporations usually have longer-term incentives, especially when they are predominantly owned by institutional shareholders with orientations towards the long-term. Furthermore, privatizing industries in emerging markets signals fiscal prudence to international investors and also floods governments with cash they can spend on socially and politically desirable projects.
+Privatization promotes efficiency.
+Nationalized SOEs are insulated from competitive pressures both explicitly (that is, horizontal nationalization purges away private-sector competitors) and implicitly (that is, governments protect "national champions" through anti-competitive regulations), so slack, waste, and negligence go unpunished by market forces; consequently, state resources are wasted. Private firms, by contrast, face the ever-existential threat of death-by-competition.
+Bureaucracy and red-tape stymie innovation within state-owned enterprises. Private firms face evolutionary pressures to adapt and evolve rapidly so as to stay in business.
+Private firms have greater access to capital since they typically have better credit ratings due to their impressive histories of good credit and effective corporate governance; further, MNCs often have pre-existing ties to Western financial markets (for example, primary bond markets sponsored by NASDAQ or NYSE) and pre-existing relationships with major financial institutions (for example, JPMorgan). Governments are already cash-strapped and suffer from low credit ratings (especially in developing economies) and poor reputations amongst international creditors.
+"Soft budget constraints" beget administrative bloat, managerial corruption, and inefficient corporate governance within SOEs. When these SOEs become such "zombie companies" requiring successive bailouts to stay alive, governments assume vast debt burdens, increasing sovereign debt loads.
+Governments lack expertise: bureaucrats and civil servants lack technical knowledge and managerial skills to effectively run industries typically in private hands.
+Rates of manager turnover are high in SOEs since (i) political appointees are typically nearing retirement age (and given positions as rewards for decades of loyal patronage), (ii) anti-corruption purges cycle new leadership in and out the door, and (iii) different parties rotate in and out of power.
+State-owned enterprises are vectors of corruption.
+Lucrative careers in SOEs are handed out as rewards by party leaders and government officials in positions of power. SOEs hence become staffed with under-qualified cronies and loyal patrons of the party.
+State ownership of private enterprises creates the conditions needed for corruption to arise. Moreover, SOEs attract greedy, self-interested individuals to enter politics.
+Corruption is a two-way street as SOE managers gain leverage over political officials because they control resources. SOE leaders push for further protections, preferential access to land and loans, and bailouts in times of crisis.
+Nationalization undermines democratization. SOE revenues (i) reduce states' dependence on taxes, reducing voters' bargaining power and (ii) empower states' security apparatuses. Further, when economic statism expands even further over time, so too does state control over private life.
+Private-sector incentives are better than public-sector incentives.
+Corporations' profit incentives are preferable to politicians' electoral incentives.
+SOEs discriminate, as some constituencies are not electorally determinative or are victims of ethno-nationalist governments, while private firms' appetite for profit is blind to ethnicity, race, caste, and religion.
+In countries with histories of state-sponsored oppression, state-run services (for example, telecommunications) are less likely to be trusted than privately-run services.
+Companies care more about long-term development than governments.
+Governments extract short-term gains from SOEs (for example, redistributing profits from mineral mining enterprises as cash-handouts) to boost electability in upcoming elections, but neglect long-term capital expenditures, research and development, and infrastructure development.
+Companies prioritize long-term considerations:
+Large MNCs are typically publicly-listed and majority-owned by long-term-oriented institutional investment funds (for example, pension funds, mutual funds) which must pay-out to their shareholders over many years.
+Corporate executives' compensation is usually tied to long-term performance (that is, restricted stock options). Hence, MNCs' board of directors and C-suite executives selfishly prioritize investing in the long-term.
+When SOEs are privatized, bidders spend billions to acquire majority ownership of newly-privatized firms. The type of investor willing to take this short-term hit evidently has a revealed preference for long-term profitability over making a quick buck.
+Companies are not exploitative.
+Companies are subject to greater scrutiny than governments, as they're widely perceived as greedy and Western. Moreover, ESG investing is on the rise.
+Ownership contracts (for example, mine ownership) must be renewed periodically (for example, every fifteen years) so companies must (i) provide better service than competitors and (ii) appease local consumers to avoid political backlash.
+Tiered pricing regimes maximize profits and accessibility concurrently.
+Privatization strengthens private-sector markets.
+Nationalization chills investors by signaling a state's willingness to intervene in markets to further political interests; nationalization hence begets capital flight. Privatization, conversely, signals fiscal discipline and commitment to strengthening the private sector and hence increases foreign investment.
+Nationalization distorts capital markets. SOEs are backed by implicit guarantees of state protection or bailout, greatly reducing their risk of default; SOEs thus become favored in capital markets by institutional investors. When SOEs abuse their abundant access to cheap credit, the supply of loanable funds decreases, increasing borrowing costs for private-sector firms.
+Privatization brings in substantial revenue, which states can use to enhance the economy's productive potential.
+Privatization stifles private enterprises in adjacent industries: states protect SOEs (for example, train companies) from substitute industries (for example, automobile manufacturers).
+SOEs hire many workers (even beyond necessity) and pay fat wages (well above market rates) because unions exert great influence over governments and because employment by the state is a convenient mechanism for retaining power. This (i) puts upward pressure on wages, driving SMEs under, and (ii) saps talent from the private sector.
+Democratic accountability via nationalization is ineffective.
+Most voters are single or dual issue voters; mismanagement of SOEs rarely, if ever, swings elections, let alone changes voters' behavior.
+Media oversight is limited and SOEs are complex and opaque; hence, corruption and mismanagement are rarely exorcized via democratic elections.
+Democratic institutions are oft-weak: corruption is widespread, voter turnout is persistently low, misinformation is everywhere, voters are apathetic, party machines control narrative, and democratic rights are increasingly under assault.
+Blame is diffused across many actors (for example, local MPs, federally-elected PM); plausible deniability undermines accountability.
+Regulation works: privatization's downsides are best solved through regulations localized to those downsides (for example, price caps for price gouging).
+Lobbying is feared too much, given legislation restricting lobbying, counter-lobbying from consumer protection activists, and bureaucrats' disinterest in appearing corrupt. Further, campaign finance contributions are instrumentally useful; money cannot erase scandals.
+Common-sense regulation is a win for all parties: politicians gain political brownie points for reigning in big business and companies gain protection against self-destructive "races to the bottom."
+
+That was State Ownership. Next episode: Resource Curse.
