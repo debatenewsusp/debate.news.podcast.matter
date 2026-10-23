@@ -1,6 +1,12 @@
-Episode 97. US v Google.
-Federal regulators are pressing antitrust charges in U.S. v. Google. The Justice Department claims Google is a monopoly with 91% of the global search engine market and argues that Google unfairly blocks competition by (1) illegally partnering with Apple, Samsung, and Mozilla to make Google their default search engine (at the expense of others, like Bing or DuckDuckGo) and (2) preloading Google services on devices running the Android operating system.
-Google's response? (1) These practices are legal; paying Apple to make Safari default to Google is no different than cereal companies paying supermarkets to stock boxes at eye-level. (2) Google lacks true monopoly power; e-commerce and social media companies like Amazon and TikTok provide alternatives which bypass the need to use Google' search engine. (3) Google might simply be the best search engine on the market, which explains its market power.
-The DOJ (alongside a handful of states joining in the lawsuit) will need to convince Amit Mehta, the DC-based federal district court judge presiding over the case, to endorse a narrow vision of what constitutes a search engine; else, a broad interpretation permits Google to point to adjacent industries (like e-commerce) as evidence of competition. Further, the DOJ must show Google's commercial agreements with major technology companies (like Apple) meaningfully denied other search engines similar opportunities. The trial is the first antitrust trial against a major tech company since Microsoft was sued in the 1990s.
+Episode 97. U.S. versus Google.
+Today: the U.S. government's antitrust case against Google search.
 
-That was US v Google. Next episode: Sam Bankman-Fried.
+First, the charges. The Justice Department argued Google is a monopoly with around ninety percent of global search, and that it blocked rivals by paying Apple, Samsung and Mozilla to be the default search engine and by preloading its services on Android phones.
+
+Second, Google's defense. Paying to be the default is legal, like cereal brands paying supermarkets for eye-level shelves. It faces real competition, since people search on Amazon and TikTok. And it may simply be the best product.
+
+Third, what the government had to prove: that Judge Amit Mehta should define the search market narrowly, so Amazon and TikTok do not count, and that the default deals actually shut rivals out. It was the first major tech antitrust trial since the Microsoft case of the nineties.
+
+Since then: in 2024 Judge Mehta ruled that Google illegally maintained a search monopoly. In the remedies phase in 2025, he declined to force a sale of the Chrome browser but restricted exclusive default deals and required some data sharing with rivals.
+
+That was U.S. versus Google. Next episode: Sam Bankman-Fried.

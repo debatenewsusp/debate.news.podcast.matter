@@ -1,4 +1,10 @@
 Episode 98. Sam Bankman-Fried.
-Sam Bankman-Fried founded FTX, a cryptocurrency exchange, in 2019; two years later, the platform had over 1M active members. In November 2022, the company filed for bankruptcy when media reports on the close (and quasi-illegal) relationship between FTX and SBF's Alameda Research crypto hedge fund, which functioned as a market maker (liquidity provider) for FTX, led to a customer run on FTX deposits and a Binance fire-sale of FTT (FTX's crypto token). Binance temporarily offered to buy FTX but backed out a day later; FTX entered Chapter 11 bankruptcy proceedings. In December, Bankman-Fried was arrested; he faces seven charges of wire fraud, securities fraud, commodities fraud, and money laundering. Prosecutors are working closely with Bankman-Fried's closest allies, including former Alameda CEO Caroline Ellison, along with two FTX executives, Gary Wang and Nishad Singh. In mid August, Bankman-Fried's bail was revoked; prosecutors claim he intimidated witnesses.
+Today: the rise and fall of FTX.
+
+Sam Bankman-Fried founded the crypto exchange FTX in 2019, and within two years it had over a million users. In November 2022, reports exposed its tangled relationship with Alameda Research, his crypto trading firm, which acted as a market maker on FTX. Customers rushed to withdraw, rival exchange Binance dumped FTX's token, briefly offered to buy the company and then walked away, and FTX filed for bankruptcy.
+
+Bankman-Fried was arrested in December 2022 on charges including wire fraud, securities fraud and money laundering. His closest associates, including former Alameda chief Caroline Ellison and FTX executives Gary Wang and Nishad Singh, cooperated with prosecutors, and his bail was revoked in 2023 over alleged witness tampering.
+
+Since then: in November 2023 a jury convicted him on all counts, and in 2024 he was sentenced to twenty-five years in prison.
 
 That was Sam Bankman-Fried. Next episode: Activist Investing.
