@@ -1,29 +1,28 @@
 Episode 4. Interest Rates.
-Today's subtopics: FOMC, Lower Rates, Raise Rates, and High and Low Nominal Rates.
+Four parts today: the Fed's position, the case for lowering rates, the case for raising them, and high versus low rates in general.
 
-Next: FOMC.
+First, context. This file was written in late 2023. At that point the Fed had raised rates eleven times since March 2022, from zero to around five and a quarter percent. Headline inflation had fallen from a peak near nine percent to under four.
 
-The Federal Reserve's Federal Open Market Committee (FOMC) has raised benchmark interest rates 11 times since March of 2022, from 0% to just over 5%. Currently, the overnight federal funds rate is 5.25% to 5.50%.
-Annualized inflation computed via the consumer price index is 3.70% as of September 2023; inflation computed via the personal consumption expenditures is 3.40%. Core inflation, which excludes food and energy prices, is 4.15% as of 9/23. Supercore inflation, which excludes food, energy, and housing prices, is just 1.2% as of 9/23.
-Inflation has fallen considerably over the last nine months; headline inflation hit 9.9% in August 2022.
+Now, the case for lowering rates.
 
-Next: Lower Rates.
+Inflation is no longer the main threat. Supply chains have recovered, energy prices cooled, pandemic stimulus has worked through the system, and past hikes are still taking effect.
 
-Inflation isn't a top priority: inflation is falling in most OECD economies; COVID is over; companies are embracing resilience in supply chains; China's lockdown ended a year ago; oil prices have cooled; alternative energy sources are rising; investment in green energy has soared; China's stagflationary crisis is souring global energy markets; pandemic-era stimulus has worked its way through the economy; past rate hikes are sufficient and are still just coming into effect; greedflation is theoretically controversial.
-Lowering rates counterintuitively reduces inflation: correcting supply chains is capital-intensive, but higher borrowing costs incapacitate firms from diversifying their supply chains; energy resources are priced in petrodollars or eurodollars, but hiking interest rates leads the USD or EUR to appreciate; small- and medium-sized businesses (SMEs) are hit the hardest by rate hikes, reducing competitiveness and promoting inflationary consolidation; by halting rate hikes, economists at the Fed can precisely pinpoint the effects of the past rate hikes on current-day inflation.
-Raising interest rates hurts consumers: higher interest rates punish middle-class citizens who rely on loans to pay for education, housing, and transportation; many mortgages are adjustable-rate, so further tightening increases housing costs for both homeowners and renters; employees face layoffs at work when employers cannot access affordable short-term financing to meet payroll demands. This is a tipping point because inflation has fallen dramatically in the last half-year, so most households expect monetary loosening and hence have planned and budgeted for interest rates not further increasing.
-Raising interest rates causes financial turbulence: SVB was just the beginning, and further rate hikes will put unbearable strain on banks' balance sheets by (i) increasing interest rates on overnight interbank loans, worsening banks' day to day liquidity needs, (ii) exposing banks to further interest rate risk, and (iii) depreciating Treasuries on banks' books. Further, central banking actions send signals to markets; further rate increases suggest overheating persists, incentivizing banks to further tighten access to credit. Moreover, this signaling effect causes cascading asset sell-offs; as panic sets in, businesses fail, stock prices implode, credit markets freeze, and millions of innocent people get hit as collateral damage.
-Raising interest rates hurts developing economies. Servicing dollarized debts is more expensive when the USD appreciates; unfortunately, further rate hikes cause dollar appreciation by increasing yields in U.S. financial markets. The compounding capital flight from low-interest-rate monetary environments will crush emerging markets.
+Counterintuitively, lower rates can even reduce inflation. Fixing supply chains requires investment, which high borrowing costs block. High rates also crush small businesses, which leads to consolidation and less competition. And because energy is priced in dollars, a stronger dollar from rate hikes makes imports pricier elsewhere.
 
-Next: Raise Rates.
+High rates hurt ordinary people. Mortgages, student loans and car loans all get more expensive, and firms that cannot borrow short-term start laying off workers.
 
-Inflation requires further taming, especially given red-hot labor markets, resilient consumer demand, and high commodities prices. Cutting rates reignites demand-side inflationary pressures.
-Central banking mandates must not be ignored. Elsewise, central banking credibility is forever tarnished and central banks' capacity for forward guidance is all but eliminated.
-Raising rates stabilizes the economy: lowering interest rates leads to asset bubbles; lowering interest rates problematizes crisis recovery via the liquidity trap; and lowering interest rates encourages investors to seek out higher-yield higher-risk investments elsewhere.
+They also threaten financial stability. Silicon Valley Bank showed how rising rates erode the value of bonds on bank balance sheets. More hikes signal trouble, banks tighten credit, and panic can spread.
 
-Next: High and Low Nominal Rates.
+And they hurt developing countries, whose debts are often in dollars. Higher U.S. rates mean a stronger dollar and capital flight from emerging markets.
 
-High: High interest rates keep inflation in check by deterring excessive borrowing or spending and limiting over-leveraging by financial institutions; in particular, high interest rates are important for cooling off overheated economies, when spending and borrowing have surged uncontrollably. Because low interest rates reduce the attractiveness of conventional assets (like bonds), investors seek out higher returns in riskier or non-vanilla assets (with higher likelihoods of failure). Higher interest rates also benefit savers (who reap greater returns on their savings, thereby incentivizing an influx of capital into savings accounts) and retirees or pensioners (whose assets' returns are often indexed to, or affected by, market interest rates). Counterintuitively, higher interest rates might spur lending, as higher interest rates make direct lending more attractive to creditors.
-Low: High interest rates make borrowing more expensive, hurts small businesses (which now struggle to take out loans) and households (which face difficulty making auto loan and mortgage payments); that risks a wave of foreclosures, bankruptcies, and layoffs. Conversely, low interest rates encourage borrowing, enable capital expenditures (and thereby long-term growth) through borrowed funds, and increase the accessibility of financial services to underrepresented groups. Counterintuitively, low interest rates limit inflation: supply-side constraints on production (like rising energy prices or supply chain complications) require investment (like building new gas lines), which low interest rates make possible; furthermore, high interest rates promote consolidation by straining SMEs' balance sheets, thereby reducing the competitive market pressures that drive innovation and cost-cutting. High (U.S.) interest rates make USD-denominated assets more attractive, leading to dollar appreciation; since most international debts are denominated in the dollar, a strong dollar increases the risk of debt crises in developing markets. Additionally, raising interest rates engenders financial crises by signaling unfavorable market conditions to risk-averse investors, sharply depreciating the value of fixed-rate securities on banks' balance sheets, and hampering governments' access to affordable credit, thereby reducing public spending on essential services.
+Now, the case for raising rates.
+
+Inflation is not tamed yet: labor markets are hot and consumer demand is strong. Cutting too early reignites price pressure. Central banks also need credibility; if they abandon their mandate, their forward guidance stops working. And cheap money fuels asset bubbles and pushes investors into riskier bets.
+
+Finally, high versus low rates in general.
+
+High rates cool an overheated economy, limit excessive leverage, reward savers and pensioners, and stop investors chasing risky assets just to find yield.
+
+Low rates make borrowing affordable for households and small businesses, fund long-term investment, and widen access to finance. They can ease supply-side inflation by enabling investment, and they protect developing countries from the dollar-debt squeeze and the financial panics that sharp hikes can trigger.
 
 That was Interest Rates. Next episode: Too Big To Fail.

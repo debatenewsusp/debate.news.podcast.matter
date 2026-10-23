@@ -82,7 +82,7 @@ def write_feed(state):
         items.append(f"""    <item>
       <title>{html.escape(f"{ep['n']:03d}. {ep['title']}")}</title>
       <description>{html.escape(desc)}</description>
-      <guid isPermaLink="false">matter-file-{ep['n']:03d}</guid>
+      <guid isPermaLink="false">matter-file-v2-{ep['n']:03d}</guid>
       <pubDate>{ep['pubDate']}</pubDate>
       <enclosure url="{html.escape(url)}" length="{ep['bytes']}" type="audio/mpeg"/>
       <itunes:duration>{ep['seconds']}</itunes:duration>
