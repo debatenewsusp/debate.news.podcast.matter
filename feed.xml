@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Matter File Daily</title>
+    <link>https://debatenewsusp.github.io/debate.news.podcast.matter/</link>
+    <description>One topic a day from the WUDC matter file, read in a different English accent each episode.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Oct 2026 09:05:07 +0000</lastBuildDate>
+    <itunes:author>Matter File Daily</itunes:author>
+    <itunes:image href="https://debatenewsusp.github.io/debate.news.podcast.matter/cover.png"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>002. Resource Curse</title>
+      <description>Narrated by Aria (the United States).</description>
+      <guid isPermaLink="false">matter-file-v2-002</guid>
+      <pubDate>Sat, 24 Oct 2026 09:05:07 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/002.mp3" length="1116720" type="audio/mpeg"/>
+      <itunes:duration>186</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>001. State Ownership</title>
+      <description>Narrated by Ryan (England). Subtopics: Nationalization, Privatization.</description>
+      <guid isPermaLink="false">matter-file-v2-001</guid>
+      <pubDate>Fri, 23 Oct 2026 13:50:23 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/001.mp3" length="1406304" type="audio/mpeg"/>
+      <itunes:duration>234</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>
