@@ -1,0 +1,106 @@
+{
+ "next": 10,
+ "published": [
+  {
+   "n": 3,
+   "title": "Currency Strength",
+   "subtopics": [],
+   "file": "003.mp3",
+   "narrator": "Natasha",
+   "accent": "Australia",
+   "voice": "en-AU-NatashaNeural",
+   "bytes": 356544,
+   "seconds": 59,
+   "pubDate": "Sun, 25 Oct 2026 09:05:28 +0000"
+  },
+  {
+   "n": 4,
+   "title": "Interest Rates",
+   "subtopics": [
+    "FOMC",
+    "Lower Rates",
+    "Raise Rates",
+    "High/Low Nominal Rates"
+   ],
+   "file": "004.mp3",
+   "narrator": "Connor",
+   "accent": "Ireland",
+   "voice": "en-IE-ConnorNeural",
+   "bytes": 987552,
+   "seconds": 164,
+   "pubDate": "Mon, 26 Oct 2026 09:21:41 +0000"
+  },
+  {
+   "n": 5,
+   "title": "Too Big To Fail",
+   "subtopics": [
+    "TBTF G–SIFIs",
+    "Break Up G–SIFIs",
+    "Nationalize SIFIs",
+    "G–SIFIs are Good",
+    "Bailouts"
+   ],
+   "file": "005.mp3",
+   "narrator": "Neerja",
+   "accent": "India",
+   "voice": "en-IN-NeerjaNeural",
+   "bytes": 1444176,
+   "seconds": 240,
+   "pubDate": "Tue, 27 Oct 2026 09:18:04 +0000"
+  },
+  {
+   "n": 6,
+   "title": "Free Trade",
+   "subtopics": [],
+   "file": "006.mp3",
+   "narrator": "Luke",
+   "accent": "South Africa",
+   "voice": "en-ZA-LukeNeural",
+   "bytes": 1005696,
+   "seconds": 167,
+   "pubDate": "Wed, 28 Oct 2026 09:25:01 +0000"
+  },
+  {
+   "n": 7,
+   "title": "Inflation",
+   "subtopics": [],
+   "file": "007.mp3",
+   "narrator": "Clara",
+   "accent": "Canada",
+   "voice": "en-CA-ClaraNeural",
+   "bytes": 589680,
+   "seconds": 98,
+   "pubDate": "Thu, 29 Oct 2026 09:27:39 +0000"
+  },
+  {
+   "n": 8,
+   "title": "Labor Rights",
+   "subtopics": [
+    "Wages",
+    "Unions"
+   ],
+   "file": "008.mp3",
+   "narrator": "Mitchell",
+   "accent": "New Zealand",
+   "voice": "en-NZ-MitchellNeural",
+   "bytes": 1215936,
+   "seconds": 202,
+   "pubDate": "Fri, 30 Oct 2026 09:27:23 +0000"
+  },
+  {
+   "n": 9,
+   "title": "Sanctions",
+   "subtopics": [
+    "Against Sanctions",
+    "For Sanctions"
+   ],
+   "file": "009.mp3",
+   "narrator": "Luna",
+   "accent": "Singapore",
+   "voice": "en-SG-LunaNeural",
+   "bytes": 1271520,
+   "seconds": 211,
+   "pubDate": "Sat, 31 Oct 2026 09:18:14 +0000"
+  }
+ ]
+}

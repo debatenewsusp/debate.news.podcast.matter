@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Matter File Daily</title>
+    <link>https://debatenewsusp.github.io/debate.news.podcast.matter/</link>
+    <description>One topic a day from the WUDC matter file, read in a different English accent each episode.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 31 Oct 2026 09:18:14 +0000</lastBuildDate>
+    <itunes:author>Matter File Daily</itunes:author>
+    <itunes:image href="https://debatenewsusp.github.io/debate.news.podcast.matter/cover.png"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>009. Sanctions</title>
+      <description>Narrated by Luna (Singapore). Subtopics: Against Sanctions, For Sanctions.</description>
+      <guid isPermaLink="false">matter-file-v2-009</guid>
+      <pubDate>Sat, 31 Oct 2026 09:18:14 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/009.mp3" length="1271520" type="audio/mpeg"/>
+      <itunes:duration>211</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+    </item>
+    <item>
+      <title>008. Labor Rights</title>
+      <description>Narrated by Mitchell (New Zealand). Subtopics: Wages, Unions.</description>
+      <guid isPermaLink="false">matter-file-v2-008</guid>
+      <pubDate>Fri, 30 Oct 2026 09:27:23 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/008.mp3" length="1215936" type="audio/mpeg"/>
+      <itunes:duration>202</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title>007. Inflation</title>
+      <description>Narrated by Clara (Canada).</description>
+      <guid isPermaLink="false">matter-file-v2-007</guid>
+      <pubDate>Thu, 29 Oct 2026 09:27:39 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/007.mp3" length="589680" type="audio/mpeg"/>
+      <itunes:duration>98</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>006. Free Trade</title>
+      <description>Narrated by Luke (South Africa).</description>
+      <guid isPermaLink="false">matter-file-v2-006</guid>
+      <pubDate>Wed, 28 Oct 2026 09:25:01 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/006.mp3" length="1005696" type="audio/mpeg"/>
+      <itunes:duration>167</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>005. Too Big To Fail</title>
+      <description>Narrated by Neerja (India). Subtopics: TBTF G–SIFIs, Break Up G–SIFIs, Nationalize SIFIs, G–SIFIs are Good, Bailouts.</description>
+      <guid isPermaLink="false">matter-file-v2-005</guid>
+      <pubDate>Tue, 27 Oct 2026 09:18:04 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/005.mp3" length="1444176" type="audio/mpeg"/>
+      <itunes:duration>240</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>004. Interest Rates</title>
+      <description>Narrated by Connor (Ireland). Subtopics: FOMC, Lower Rates, Raise Rates, High/Low Nominal Rates.</description>
+      <guid isPermaLink="false">matter-file-v2-004</guid>
+      <pubDate>Mon, 26 Oct 2026 09:21:41 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/004.mp3" length="987552" type="audio/mpeg"/>
+      <itunes:duration>164</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>003. Currency Strength</title>
+      <description>Narrated by Natasha (Australia).</description>
+      <guid isPermaLink="false">matter-file-v2-003</guid>
+      <pubDate>Sun, 25 Oct 2026 09:05:28 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/003.mp3" length="356544" type="audio/mpeg"/>
+      <itunes:duration>59</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+    </item>
+  </channel>
+</rss>
