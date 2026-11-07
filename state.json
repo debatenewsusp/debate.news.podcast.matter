@@ -1,0 +1,98 @@
+{
+ "next": 17,
+ "published": [
+  {
+   "n": 10,
+   "title": "Leadership Decapitation",
+   "subtopics": [],
+   "file": "010.mp3",
+   "narrator": "Chilemba",
+   "accent": "Kenya",
+   "voice": "en-KE-ChilembaNeural",
+   "bytes": 1100160,
+   "seconds": 183,
+   "pubDate": "Sun, 01 Nov 2026 09:21:57 +0000"
+  },
+  {
+   "n": 11,
+   "title": "Military Invasions",
+   "subtopics": [],
+   "file": "011.mp3",
+   "narrator": "Ezinne",
+   "accent": "Nigeria",
+   "voice": "en-NG-EzinneNeural",
+   "bytes": 1068048,
+   "seconds": 178,
+   "pubDate": "Mon, 02 Nov 2026 09:37:38 +0000"
+  },
+  {
+   "n": 12,
+   "title": "Drone Strikes",
+   "subtopics": [],
+   "file": "012.mp3",
+   "narrator": "James",
+   "accent": "the Philippines",
+   "voice": "en-PH-JamesNeural",
+   "bytes": 1085472,
+   "seconds": 180,
+   "pubDate": "Tue, 03 Nov 2026 16:31:10 +0000"
+  },
+  {
+   "n": 13,
+   "title": "FDI/MNCs",
+   "subtopics": [],
+   "file": "013.mp3",
+   "narrator": "Sonia",
+   "accent": "England",
+   "voice": "en-GB-SoniaNeural",
+   "bytes": 687312,
+   "seconds": 114,
+   "pubDate": "Wed, 04 Nov 2026 16:34:45 +0000"
+  },
+  {
+   "n": 14,
+   "title": "Urbanization",
+   "subtopics": [
+    "Urbanization Good",
+    "Urbanization Bad"
+   ],
+   "file": "014.mp3",
+   "narrator": "Guy",
+   "accent": "the United States",
+   "voice": "en-US-GuyNeural",
+   "bytes": 1032912,
+   "seconds": 172,
+   "pubDate": "Thu, 05 Nov 2026 16:48:43 +0000"
+  },
+  {
+   "n": 15,
+   "title": "Censorship",
+   "subtopics": [
+    "Corporate Censorship Good",
+    "Corporate Censorship Bad"
+   ],
+   "file": "015.mp3",
+   "narrator": "Sonia",
+   "accent": "England",
+   "voice": "en-GB-SoniaNeural",
+   "bytes": 945792,
+   "seconds": 157,
+   "pubDate": "Fri, 06 Nov 2026 16:15:42 +0000"
+  },
+  {
+   "n": 16,
+   "title": "Free Speech",
+   "subtopics": [
+    "Defending Free Speech",
+    "Curbing Free Speech"
+   ],
+   "file": "016.mp3",
+   "narrator": "Emily",
+   "accent": "Ireland",
+   "voice": "en-IE-EmilyNeural",
+   "bytes": 1309248,
+   "seconds": 218,
+   "pubDate": "Sat, 07 Nov 2026 15:07:13 +0000"
+  }
+ ]
+}

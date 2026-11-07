@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Matter File Daily</title>
+    <link>https://debatenewsusp.github.io/debate.news.podcast.matter/</link>
+    <description>One topic a day from the WUDC matter file, read in a different English accent each episode.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Nov 2026 15:07:13 +0000</lastBuildDate>
+    <itunes:author>Matter File Daily</itunes:author>
+    <itunes:image href="https://debatenewsusp.github.io/debate.news.podcast.matter/cover.png"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>016. Free Speech</title>
+      <description>Narrated by Emily (Ireland). Subtopics: Defending Free Speech, Curbing Free Speech.</description>
+      <guid isPermaLink="false">matter-file-v2-016</guid>
+      <pubDate>Sat, 07 Nov 2026 15:07:13 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/016.mp3" length="1309248" type="audio/mpeg"/>
+      <itunes:duration>218</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+    </item>
+    <item>
+      <title>015. Censorship</title>
+      <description>Narrated by Sonia (England). Subtopics: Corporate Censorship Good, Corporate Censorship Bad.</description>
+      <guid isPermaLink="false">matter-file-v2-015</guid>
+      <pubDate>Fri, 06 Nov 2026 16:15:42 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/015.mp3" length="945792" type="audio/mpeg"/>
+      <itunes:duration>157</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+    </item>
+    <item>
+      <title>014. Urbanization</title>
+      <description>Narrated by Guy (the United States). Subtopics: Urbanization Good, Urbanization Bad.</description>
+      <guid isPermaLink="false">matter-file-v2-014</guid>
+      <pubDate>Thu, 05 Nov 2026 16:48:43 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/014.mp3" length="1032912" type="audio/mpeg"/>
+      <itunes:duration>172</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+    </item>
+    <item>
+      <title>013. FDI/MNCs</title>
+      <description>Narrated by Sonia (England).</description>
+      <guid isPermaLink="false">matter-file-v2-013</guid>
+      <pubDate>Wed, 04 Nov 2026 16:34:45 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/013.mp3" length="687312" type="audio/mpeg"/>
+      <itunes:duration>114</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+    </item>
+    <item>
+      <title>012. Drone Strikes</title>
+      <description>Narrated by James (the Philippines).</description>
+      <guid isPermaLink="false">matter-file-v2-012</guid>
+      <pubDate>Tue, 03 Nov 2026 16:31:10 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/012.mp3" length="1085472" type="audio/mpeg"/>
+      <itunes:duration>180</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+    </item>
+    <item>
+      <title>011. Military Invasions</title>
+      <description>Narrated by Ezinne (Nigeria).</description>
+      <guid isPermaLink="false">matter-file-v2-011</guid>
+      <pubDate>Mon, 02 Nov 2026 09:37:38 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/011.mp3" length="1068048" type="audio/mpeg"/>
+      <itunes:duration>178</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+    </item>
+    <item>
+      <title>010. Leadership Decapitation</title>
+      <description>Narrated by Chilemba (Kenya).</description>
+      <guid isPermaLink="false">matter-file-v2-010</guid>
+      <pubDate>Sun, 01 Nov 2026 09:21:57 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/010.mp3" length="1100160" type="audio/mpeg"/>
+      <itunes:duration>183</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+    </item>
+  </channel>
+</rss>
