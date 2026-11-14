@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Matter File Daily</title>
+    <link>https://debatenewsusp.github.io/debate.news.podcast.matter/</link>
+    <description>One topic a day from the WUDC matter file, read in a different English accent each episode.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Nov 2026 15:20:03 +0000</lastBuildDate>
+    <itunes:author>Matter File Daily</itunes:author>
+    <itunes:image href="https://debatenewsusp.github.io/debate.news.podcast.matter/cover.png"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>023. Drug Legalization</title>
+      <description>Narrated by Abeo (Nigeria).</description>
+      <guid isPermaLink="false">matter-file-v2-023</guid>
+      <pubDate>Sat, 14 Nov 2026 15:20:03 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/023.mp3" length="1100304" type="audio/mpeg"/>
+      <itunes:duration>183</itunes:duration>
+      <itunes:episode>23</itunes:episode>
+    </item>
+    <item>
+      <title>022. Federalization</title>
+      <description>Narrated by Asilia (Kenya).</description>
+      <guid isPermaLink="false">matter-file-v2-022</guid>
+      <pubDate>Fri, 13 Nov 2026 16:43:23 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/022.mp3" length="964656" type="audio/mpeg"/>
+      <itunes:duration>160</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+    </item>
+    <item>
+      <title>021. Money vs Happiness</title>
+      <description>Narrated by Wayne (Singapore).</description>
+      <guid isPermaLink="false">matter-file-v2-021</guid>
+      <pubDate>Thu, 12 Nov 2026 17:03:05 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/021.mp3" length="884880" type="audio/mpeg"/>
+      <itunes:duration>147</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+    </item>
+    <item>
+      <title>020. State Power Principle</title>
+      <description>Narrated by Molly (New Zealand). Subtopics: Autonomy, Anti-Democracy Principles, Social Contract.</description>
+      <guid isPermaLink="false">matter-file-v2-020</guid>
+      <pubDate>Wed, 11 Nov 2026 16:36:07 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/020.mp3" length="1478880" type="audio/mpeg"/>
+      <itunes:duration>246</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+    </item>
+    <item>
+      <title>019. Free Will</title>
+      <description>Narrated by Liam (Canada).</description>
+      <guid isPermaLink="false">matter-file-v2-019</guid>
+      <pubDate>Tue, 10 Nov 2026 16:36:18 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/019.mp3" length="722304" type="audio/mpeg"/>
+      <itunes:duration>120</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+    </item>
+    <item>
+      <title>018. Justice System</title>
+      <description>Narrated by Leah (South Africa). Subtopics: Deontological CJS, Future Victims, Current Victims, Progressive Judges, Conservative Judges, Deterrence Fails, Legal Cynicism, Long Sentences Good, Longer Sentences Bad, Ludovico Technique, Jury Nullification Bad.</description>
+      <guid isPermaLink="false">matter-file-v2-018</guid>
+      <pubDate>Mon, 09 Nov 2026 19:06:09 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/018.mp3" length="1344672" type="audio/mpeg"/>
+      <itunes:duration>224</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+    </item>
+    <item>
+      <title>017. Social Justice Stock Arguments</title>
+      <description>Narrated by Prabhat (India). Subtopics: Radicalism, Leaders, Court Successes, Leader-Led Protests.</description>
+      <guid isPermaLink="false">matter-file-v2-017</guid>
+      <pubDate>Sun, 08 Nov 2026 15:35:19 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/017.mp3" length="1458288" type="audio/mpeg"/>
+      <itunes:duration>243</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+    </item>
+  </channel>
+</rss>

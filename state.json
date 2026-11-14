@@ -1,0 +1,110 @@
+{
+ "next": 24,
+ "published": [
+  {
+   "n": 17,
+   "title": "Social Justice Stock Arguments",
+   "subtopics": [
+    "Radicalism",
+    "Leaders",
+    "Court Successes",
+    "Leader-Led Protests"
+   ],
+   "file": "017.mp3",
+   "narrator": "Prabhat",
+   "accent": "India",
+   "voice": "en-IN-PrabhatNeural",
+   "bytes": 1458288,
+   "seconds": 243,
+   "pubDate": "Sun, 08 Nov 2026 15:35:19 +0000"
+  },
+  {
+   "n": 18,
+   "title": "Justice System",
+   "subtopics": [
+    "Deontological CJS",
+    "Future Victims",
+    "Current Victims",
+    "Progressive Judges",
+    "Conservative Judges",
+    "Deterrence Fails",
+    "Legal Cynicism",
+    "Long Sentences Good",
+    "Longer Sentences Bad",
+    "Ludovico Technique",
+    "Jury Nullification Bad"
+   ],
+   "file": "018.mp3",
+   "narrator": "Leah",
+   "accent": "South Africa",
+   "voice": "en-ZA-LeahNeural",
+   "bytes": 1344672,
+   "seconds": 224,
+   "pubDate": "Mon, 09 Nov 2026 19:06:09 +0000"
+  },
+  {
+   "n": 19,
+   "title": "Free Will",
+   "subtopics": [],
+   "file": "019.mp3",
+   "narrator": "Liam",
+   "accent": "Canada",
+   "voice": "en-CA-LiamNeural",
+   "bytes": 722304,
+   "seconds": 120,
+   "pubDate": "Tue, 10 Nov 2026 16:36:18 +0000"
+  },
+  {
+   "n": 20,
+   "title": "State Power Principle",
+   "subtopics": [
+    "Autonomy",
+    "Anti-Democracy Principles",
+    "Social Contract"
+   ],
+   "file": "020.mp3",
+   "narrator": "Molly",
+   "accent": "New Zealand",
+   "voice": "en-NZ-MollyNeural",
+   "bytes": 1478880,
+   "seconds": 246,
+   "pubDate": "Wed, 11 Nov 2026 16:36:07 +0000"
+  },
+  {
+   "n": 21,
+   "title": "Money vs Happiness",
+   "subtopics": [],
+   "file": "021.mp3",
+   "narrator": "Wayne",
+   "accent": "Singapore",
+   "voice": "en-SG-WayneNeural",
+   "bytes": 884880,
+   "seconds": 147,
+   "pubDate": "Thu, 12 Nov 2026 17:03:05 +0000"
+  },
+  {
+   "n": 22,
+   "title": "Federalization",
+   "subtopics": [],
+   "file": "022.mp3",
+   "narrator": "Asilia",
+   "accent": "Kenya",
+   "voice": "en-KE-AsiliaNeural",
+   "bytes": 964656,
+   "seconds": 160,
+   "pubDate": "Fri, 13 Nov 2026 16:43:23 +0000"
+  },
+  {
+   "n": 23,
+   "title": "Drug Legalization",
+   "subtopics": [],
+   "file": "023.mp3",
+   "narrator": "Abeo",
+   "accent": "Nigeria",
+   "voice": "en-NG-AbeoNeural",
+   "bytes": 1100304,
+   "seconds": 183,
+   "pubDate": "Sat, 14 Nov 2026 15:20:03 +0000"
+  }
+ ]
+}
