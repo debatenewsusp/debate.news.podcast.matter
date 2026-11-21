@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Matter File Daily</title>
+    <link>https://debatenewsusp.github.io/debate.news.podcast.matter/</link>
+    <description>One topic a day from the WUDC matter file, read in a different English accent each episode.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 21 Nov 2026 16:22:48 +0000</lastBuildDate>
+    <itunes:author>Matter File Daily</itunes:author>
+    <itunes:image href="https://debatenewsusp.github.io/debate.news.podcast.matter/cover.png"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>030. Proselytization</title>
+      <description>Narrated by Luke (South Africa).</description>
+      <guid isPermaLink="false">matter-file-v2-030</guid>
+      <pubDate>Sat, 21 Nov 2026 16:22:48 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/030.mp3" length="904752" type="audio/mpeg"/>
+      <itunes:duration>150</itunes:duration>
+      <itunes:episode>30</itunes:episode>
+    </item>
+    <item>
+      <title>029. Football Leagues</title>
+      <description>Narrated by Neerja (India). Subtopics: Football Club Ownership.</description>
+      <guid isPermaLink="false">matter-file-v2-029</guid>
+      <pubDate>Fri, 20 Nov 2026 17:15:29 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/029.mp3" length="1014768" type="audio/mpeg"/>
+      <itunes:duration>169</itunes:duration>
+      <itunes:episode>29</itunes:episode>
+    </item>
+    <item>
+      <title>028. Residential Zoning</title>
+      <description>Narrated by Connor (Ireland).</description>
+      <guid isPermaLink="false">matter-file-v2-028</guid>
+      <pubDate>Thu, 19 Nov 2026 17:37:39 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/028.mp3" length="1230624" type="audio/mpeg"/>
+      <itunes:duration>205</itunes:duration>
+      <itunes:episode>28</itunes:episode>
+    </item>
+    <item>
+      <title>027. Dollar Hegemony</title>
+      <description>Narrated by Natasha (Australia).</description>
+      <guid isPermaLink="false">matter-file-v2-027</guid>
+      <pubDate>Wed, 18 Nov 2026 17:31:29 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/027.mp3" length="1162944" type="audio/mpeg"/>
+      <itunes:duration>193</itunes:duration>
+      <itunes:episode>27</itunes:episode>
+    </item>
+    <item>
+      <title>026. SCOTUS on Affirmative Action</title>
+      <description>Narrated by Aria (the United States).</description>
+      <guid isPermaLink="false">matter-file-v2-026</guid>
+      <pubDate>Tue, 17 Nov 2026 17:51:50 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/026.mp3" length="1117008" type="audio/mpeg"/>
+      <itunes:duration>186</itunes:duration>
+      <itunes:episode>26</itunes:episode>
+    </item>
+    <item>
+      <title>025. Standardized Tests</title>
+      <description>Narrated by Ryan (England). Subtopics: Standardized Tests Bad Metrics, Standardized Tests Good Metrics, Standardized Tests Biased, Standardized Tests Unbiased.</description>
+      <guid isPermaLink="false">matter-file-v2-025</guid>
+      <pubDate>Mon, 16 Nov 2026 18:53:37 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/025.mp3" length="729648" type="audio/mpeg"/>
+      <itunes:duration>121</itunes:duration>
+      <itunes:episode>25</itunes:episode>
+    </item>
+    <item>
+      <title>024. Religion</title>
+      <description>Narrated by Rosa (the Philippines). Subtopics: Stock Religious Arguments, Separation of Church and State, Religious Coercion, Religion Good, Religion Bad, God Likely Exists.</description>
+      <guid isPermaLink="false">matter-file-v2-024</guid>
+      <pubDate>Sun, 15 Nov 2026 15:52:17 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/024.mp3" length="1124064" type="audio/mpeg"/>
+      <itunes:duration>187</itunes:duration>
+      <itunes:episode>24</itunes:episode>
+    </item>
+  </channel>
+</rss>

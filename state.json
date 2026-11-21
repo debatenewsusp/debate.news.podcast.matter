@@ -1,0 +1,103 @@
+{
+ "next": 31,
+ "published": [
+  {
+   "n": 24,
+   "title": "Religion",
+   "subtopics": [
+    "Stock Religious Arguments",
+    "Separation of Church and State",
+    "Religious Coercion",
+    "Religion Good",
+    "Religion Bad",
+    "God Likely Exists"
+   ],
+   "file": "024.mp3",
+   "narrator": "Rosa",
+   "accent": "the Philippines",
+   "voice": "en-PH-RosaNeural",
+   "bytes": 1124064,
+   "seconds": 187,
+   "pubDate": "Sun, 15 Nov 2026 15:52:17 +0000"
+  },
+  {
+   "n": 25,
+   "title": "Standardized Tests",
+   "subtopics": [
+    "Standardized Tests Bad Metrics",
+    "Standardized Tests Good Metrics",
+    "Standardized Tests Biased",
+    "Standardized Tests Unbiased"
+   ],
+   "file": "025.mp3",
+   "narrator": "Ryan",
+   "accent": "England",
+   "voice": "en-GB-RyanNeural",
+   "bytes": 729648,
+   "seconds": 121,
+   "pubDate": "Mon, 16 Nov 2026 18:53:37 +0000"
+  },
+  {
+   "n": 26,
+   "title": "SCOTUS on Affirmative Action",
+   "subtopics": [],
+   "file": "026.mp3",
+   "narrator": "Aria",
+   "accent": "the United States",
+   "voice": "en-US-AriaNeural",
+   "bytes": 1117008,
+   "seconds": 186,
+   "pubDate": "Tue, 17 Nov 2026 17:51:50 +0000"
+  },
+  {
+   "n": 27,
+   "title": "Dollar Hegemony",
+   "subtopics": [],
+   "file": "027.mp3",
+   "narrator": "Natasha",
+   "accent": "Australia",
+   "voice": "en-AU-NatashaNeural",
+   "bytes": 1162944,
+   "seconds": 193,
+   "pubDate": "Wed, 18 Nov 2026 17:31:29 +0000"
+  },
+  {
+   "n": 28,
+   "title": "Residential Zoning",
+   "subtopics": [],
+   "file": "028.mp3",
+   "narrator": "Connor",
+   "accent": "Ireland",
+   "voice": "en-IE-ConnorNeural",
+   "bytes": 1230624,
+   "seconds": 205,
+   "pubDate": "Thu, 19 Nov 2026 17:37:39 +0000"
+  },
+  {
+   "n": 29,
+   "title": "Football Leagues",
+   "subtopics": [
+    "Football Club Ownership"
+   ],
+   "file": "029.mp3",
+   "narrator": "Neerja",
+   "accent": "India",
+   "voice": "en-IN-NeerjaNeural",
+   "bytes": 1014768,
+   "seconds": 169,
+   "pubDate": "Fri, 20 Nov 2026 17:15:29 +0000"
+  },
+  {
+   "n": 30,
+   "title": "Proselytization",
+   "subtopics": [],
+   "file": "030.mp3",
+   "narrator": "Luke",
+   "accent": "South Africa",
+   "voice": "en-ZA-LukeNeural",
+   "bytes": 904752,
+   "seconds": 150,
+   "pubDate": "Sat, 21 Nov 2026 16:22:48 +0000"
+  }
+ ]
+}
