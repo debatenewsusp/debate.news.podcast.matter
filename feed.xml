@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Matter File Daily</title>
+    <link>https://debatenewsusp.github.io/debate.news.podcast.matter/</link>
+    <description>One topic a day from the WUDC matter file, read in a different English accent each episode.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Nov 2026 18:26:49 +0000</lastBuildDate>
+    <itunes:author>Matter File Daily</itunes:author>
+    <itunes:image href="https://debatenewsusp.github.io/debate.news.podcast.matter/cover.png"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>036. War Reporting</title>
+      <description>Narrated by James (the Philippines).</description>
+      <guid isPermaLink="false">matter-file-v2-036</guid>
+      <pubDate>Fri, 27 Nov 2026 18:26:49 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/036.mp3" length="1207584" type="audio/mpeg"/>
+      <itunes:duration>201</itunes:duration>
+      <itunes:episode>36</itunes:episode>
+    </item>
+    <item>
+      <title>035. Economic Technocrats</title>
+      <description>Narrated by Ezinne (Nigeria).</description>
+      <guid isPermaLink="false">matter-file-v2-035</guid>
+      <pubDate>Thu, 26 Nov 2026 18:37:54 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/035.mp3" length="917568" type="audio/mpeg"/>
+      <itunes:duration>152</itunes:duration>
+      <itunes:episode>35</itunes:episode>
+    </item>
+    <item>
+      <title>034. Marriage</title>
+      <description>Narrated by Chilemba (Kenya).</description>
+      <guid isPermaLink="false">matter-file-v2-034</guid>
+      <pubDate>Wed, 25 Nov 2026 18:50:23 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/034.mp3" length="1217952" type="audio/mpeg"/>
+      <itunes:duration>202</itunes:duration>
+      <itunes:episode>34</itunes:episode>
+    </item>
+    <item>
+      <title>033. al-Qaeda</title>
+      <description>Narrated by Luna (Singapore).</description>
+      <guid isPermaLink="false">matter-file-v2-033</guid>
+      <pubDate>Tue, 24 Nov 2026 19:41:43 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/033.mp3" length="1181376" type="audio/mpeg"/>
+      <itunes:duration>196</itunes:duration>
+      <itunes:episode>33</itunes:episode>
+    </item>
+    <item>
+      <title>032. Transnational Criminal Organizations</title>
+      <description>Narrated by Mitchell (New Zealand).</description>
+      <guid isPermaLink="false">matter-file-v2-032</guid>
+      <pubDate>Mon, 23 Nov 2026 20:31:59 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/032.mp3" length="1041120" type="audio/mpeg"/>
+      <itunes:duration>173</itunes:duration>
+      <itunes:episode>32</itunes:episode>
+    </item>
+    <item>
+      <title>031. Terrorism</title>
+      <description>Narrated by Clara (Canada).</description>
+      <guid isPermaLink="false">matter-file-v2-031</guid>
+      <pubDate>Sun, 22 Nov 2026 16:37:43 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/031.mp3" length="893664" type="audio/mpeg"/>
+      <itunes:duration>148</itunes:duration>
+      <itunes:episode>31</itunes:episode>
+    </item>
+    <item>
+      <title>030. Proselytization</title>
+      <description>Narrated by Luke (South Africa).</description>
+      <guid isPermaLink="false">matter-file-v2-030</guid>
+      <pubDate>Sat, 21 Nov 2026 16:22:48 +0000</pubDate>
+      <enclosure url="https://debatenewsusp.github.io/debate.news.podcast.matter/audio/030.mp3" length="904752" type="audio/mpeg"/>
+      <itunes:duration>150</itunes:duration>
+      <itunes:episode>30</itunes:episode>
+    </item>
+  </channel>
+</rss>

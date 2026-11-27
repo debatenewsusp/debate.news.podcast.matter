@@ -1,0 +1,89 @@
+{
+ "next": 37,
+ "published": [
+  {
+   "n": 30,
+   "title": "Proselytization",
+   "subtopics": [],
+   "file": "030.mp3",
+   "narrator": "Luke",
+   "accent": "South Africa",
+   "voice": "en-ZA-LukeNeural",
+   "bytes": 904752,
+   "seconds": 150,
+   "pubDate": "Sat, 21 Nov 2026 16:22:48 +0000"
+  },
+  {
+   "n": 31,
+   "title": "Terrorism",
+   "subtopics": [],
+   "file": "031.mp3",
+   "narrator": "Clara",
+   "accent": "Canada",
+   "voice": "en-CA-ClaraNeural",
+   "bytes": 893664,
+   "seconds": 148,
+   "pubDate": "Sun, 22 Nov 2026 16:37:43 +0000"
+  },
+  {
+   "n": 32,
+   "title": "Transnational Criminal Organizations",
+   "subtopics": [],
+   "file": "032.mp3",
+   "narrator": "Mitchell",
+   "accent": "New Zealand",
+   "voice": "en-NZ-MitchellNeural",
+   "bytes": 1041120,
+   "seconds": 173,
+   "pubDate": "Mon, 23 Nov 2026 20:31:59 +0000"
+  },
+  {
+   "n": 33,
+   "title": "al-Qaeda",
+   "subtopics": [],
+   "file": "033.mp3",
+   "narrator": "Luna",
+   "accent": "Singapore",
+   "voice": "en-SG-LunaNeural",
+   "bytes": 1181376,
+   "seconds": 196,
+   "pubDate": "Tue, 24 Nov 2026 19:41:43 +0000"
+  },
+  {
+   "n": 34,
+   "title": "Marriage",
+   "subtopics": [],
+   "file": "034.mp3",
+   "narrator": "Chilemba",
+   "accent": "Kenya",
+   "voice": "en-KE-ChilembaNeural",
+   "bytes": 1217952,
+   "seconds": 202,
+   "pubDate": "Wed, 25 Nov 2026 18:50:23 +0000"
+  },
+  {
+   "n": 35,
+   "title": "Economic Technocrats",
+   "subtopics": [],
+   "file": "035.mp3",
+   "narrator": "Ezinne",
+   "accent": "Nigeria",
+   "voice": "en-NG-EzinneNeural",
+   "bytes": 917568,
+   "seconds": 152,
+   "pubDate": "Thu, 26 Nov 2026 18:37:54 +0000"
+  },
+  {
+   "n": 36,
+   "title": "War Reporting",
+   "subtopics": [],
+   "file": "036.mp3",
+   "narrator": "James",
+   "accent": "the Philippines",
+   "voice": "en-PH-JamesNeural",
+   "bytes": 1207584,
+   "seconds": 201,
+   "pubDate": "Fri, 27 Nov 2026 18:26:49 +0000"
+  }
+ ]
+}
